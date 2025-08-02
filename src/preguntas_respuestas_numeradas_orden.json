@@ -1,0 +1,4857 @@
+[
+  {
+    "Numero": 1,
+    "Pregunta": "If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 2,
+    "Pregunta": "You decide to create 2 Virtual machines. Each virtual machine is of the size D2s v3. Would these machines always generate the same monthly cost?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 3,
+    "Pregunta": "Your team needs to have a tool that provides a digital online assistant that can provide speech support. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Machine Learning.",
+      "Azure loT Hub.",
+      "Azure Al bot.",
+      "Azure Functions."
+    ],
+    "Respuesta": "Azure Al bot."
+  },
+  {
+    "Numero": 4,
+    "Pregunta": "Your team needs to have a tool that can use past trainings to provide predictions of very high probability. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Machine Learning.",
+      "Azure loT Hub.",
+      "Azure Al bot.",
+      "Azure Functions."
+    ],
+    "Respuesta": "Azure Machine Learning."
+  },
+  {
+    "Numero": 5,
+    "Pregunta": "Your team needs to have a tool that can provide serverless computing capabilities. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Machine Learning.",
+      "Azure loT Hub.",
+      "Azure Al bot.",
+      "Azure Functions."
+    ],
+    "Respuesta": "Azure Functions."
+  },
+  {
+    "Numero": 6,
+    "Pregunta": "Your team needs to have a tool that can be used to process data from millions of sensors. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Machine Learning.",
+      "Azure loT Hub.",
+      "Azure Al bot.",
+      "Azure Functions."
+    ],
+    "Respuesta": "Azure loT Hub."
+  },
+  {
+    "Numero": 7,
+    "Pregunta": "A company needs to deploy a set of resources to Azure. Below are the key requirements for the deployment: The need to be deployed across several departments. The resources that need to be deployed are all of the same type. You need to recommend a solution to automate the deployment of the Azure resources. Which of the following would you use for this requirement?",
+    "Opciones": [
+      "Virtual Machine scale sets.",
+      "Management Groups.",
+      "Microsoft Entra ID.",
+      "Azure Resource Manager Templates."
+    ],
+    "Respuesta": "Azure Resource Manager Templates."
+  },
+  {
+    "Numero": 8,
+    "Pregunta": "Your company needs to deploy an application to virtual machines hosted in Azure. The solution must ensure an SLA of 99.99%. What is the minimum number of virtual machines and availability zones that you need to recommend for the deployment?",
+    "Opciones": [
+      "One virtual machine and One availability zone.",
+      "Two virtual machines and availability zone.",
+      "One virtual machine and Two availability zones.",
+      "Two virtual machines and Two availability zones."
+    ],
+    "Respuesta": "Two virtual machines and Two availability zones."
+  },
+  {
+    "Numero": 9,
+    "Pregunta": "Your team needs a tool that can be used to correlate events from multiple resources into a central repository. Which of the following can be used for this purpose?",
+    "Opciones": [
+      "Azure Event Hubs.",
+      "Microsoft Defender for Cloud.",
+      "Microsoft Entra ID.",
+      "Azure Log Analytics."
+    ],
+    "Respuesta": "Azure Log Analytics."
+  },
+  {
+    "Numero": 10,
+    "Pregunta": "A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement a DDoS protection plan. Would this satisfy the requirement?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 11,
+    "Pregunta": "A company is planning on hosting an application on an Azure Virtual Machine. It needs to be ensured that the application hosted on the virtual machine is accessible from the Internet over HTTPS. You decide to implement an Azure Traffic Manager profile. Would this satisfy the requirement?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 12,
+    "Pregunta": "Which of the following customers are eligible to use Azure Government to develop a cloud solution? Choose 2 answers from the options given below.",
+    "Opciones": [
+      "United states government Entity.",
+      "A United states government contractor.",
+      "A European government Entity.",
+      "A European government contractor."
+    ],
+    "Respuesta": [
+      "United states government Entity.",
+      "A United states government contractor."
+    ]
+  },
+  {
+    "Numero": 13,
+    "Pregunta": "A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. They want to implement Multi-Factor authentication for the users. Is it required to deploy a federated solution to implement Multi-Factor authentication?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 14,
+    "Pregunta": "A team is currently planning on using Azure for hosting resources. They are going to create users which would have access to the Azure resources. They want to implement Multi-Factor authentication for the users. Are two valid methods for Azure Multi-Factor authentication picture identification and entering a passport number.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 15,
+    "Pregunta": "Which of the following support plan gives you access to best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost.",
+    "Opciones": [
+      "Basic.",
+      "Standard.",
+      "Premier.",
+      "Developer."
+    ],
+    "Respuesta": "Basic."
+  },
+  {
+    "Numero": 16,
+    "Pregunta": "If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then you will have complete control over the underlying operating system.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 17,
+    "Pregunta": "You decide to create a virtual machine which is of the size D2s_v3. If you plan to stop the virtual machine, will you incur any costs for the storage associated with the virtual machine.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 18,
+    "Pregunta": "Your company is planning on using Azure for hosting Infrastructure level resources such as Azure Virtual Machines. When planning for the costing aspect for these resources, is there a flexibility offered when it comes to Capital and Operational Expenditure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 19,
+    "Pregunta": "You are looking at using a Software as a Service in Azure. Which of the following would you be responsible for?",
+    "Opciones": [
+      "High availability of the solution.",
+      "Configuration of the solution.",
+      "Installing the solution.",
+      "Scalability of the solution."
+    ],
+    "Respuesta": "Configuration of the solution."
+  },
+  {
+    "Numero": 20,
+    "Pregunta": "A company is planning on migrating all of their on-premises servers to Azure. Their business continuity department has advised that they need to ensure that servers hosted in Azure are available even if an Azure Data Center were to go down. Which of the following is a concept that would be involved in the design stage for this requirement.",
+    "Opciones": [
+      "Scalability.",
+      "Fault Tolerance.",
+      "Low Latency.",
+      "Elasticity."
+    ],
+    "Respuesta": "Fault Tolerance."
+  },
+  {
+    "Numero": 21,
+    "Pregunta": "Under which of the following circumstances could a company look at decommissioning its data center?",
+    "Opciones": [
+      "If they have their infrastructure hosted in a private cloud.",
+      "If they have their infrastructure hosted in the public cloud.",
+      "If they have their infrastructure hosted in a hybrid cloud."
+    ],
+    "Respuesta": "If they have their infrastructure hosted in the public cloud."
+  },
+  {
+    "Numero": 22,
+    "Pregunta": "A company is planning on migrating a web site to Azure. This is a public web site that is used by users on the Internet. Which of the following must the company plan for if they are planning to migrate the web site to Azure?",
+    "Opciones": [
+      "They would need to deploy a VPN.",
+      "They would need to pay for the cost to transfer the web site to Azure.",
+      "They would need to pay for the monthly costs incurred for hosting the web site.",
+      "They would need to pay for the number of connections to the web site."
+    ],
+    "Respuesta": "They would need to pay for the monthly costs incurred for hosting the web site."
+  },
+  {
+    "Numero": 23,
+    "Pregunta": "An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would the script run on a computer that runs Linux and has the Azure CLI tools installed?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 24,
+    "Pregunta": "An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has Chrome OS installed and uses Azure Cloud Shell?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 25,
+    "Pregunta": "An administrator needs to run a script written in PowerShell. This script is going to create a virtual machine in Azure. Would you be able to run the script on a machine that has macOS and PowerShell core installed?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 26,
+    "Pregunta": "An Administrator needs to view the list of planned maintenance events that could potentially affect the availability of the resources hosted in an Azure subscription. Which of the following blade in the Azure portal should the administrator consider for this requirement?",
+    "Opciones": [
+      "Resource Groups.",
+      "Microsoft Entra ID.",
+      "Azure Advisor.",
+      "Help + Support."
+    ],
+    "Respuesta": "Help + Support."
+  },
+  {
+    "Numero": 27,
+    "Pregunta": "Your team needs to have an integrated solution in place that can be used for the deployment of code. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Advisor.",
+      "Azure Cognitive Services.",
+      "Azure Application Insights.",
+      "Azure DevOps."
+    ],
+    "Respuesta": "Azure DevOps."
+  },
+  {
+    "Numero": 28,
+    "Pregunta": "Your team needs a tool that can provide guidance and recommendations that can be used to improve an Azure environment. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Advisor.",
+      "Azure Cognitive Services.",
+      "Azure Application Insights.",
+      "Azure DevOps."
+    ],
+    "Respuesta": "Azure Advisor."
+  },
+  {
+    "Numero": 29,
+    "Pregunta": "Your team needs to use a tool that can be used to build intelligent Artificial Intelligence based applications. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Advisor.",
+      "Azure Cognitive Services.",
+      "Azure Application Insights.",
+      "Azure DevOps."
+    ],
+    "Respuesta": "Azure Cognitive Services."
+  },
+  {
+    "Numero": 30,
+    "Pregunta": "Your team needs to have a tool that can be used to monitor web applications deployed to Azure. Which of the following service can be used for this purpose?",
+    "Opciones": [
+      "Azure Advisor.",
+      "Azure Cognitive Services.",
+      "Azure Application Insights.",
+      "Azure DevOps."
+    ],
+    "Respuesta": "Azure Application Insights."
+  },
+  {
+    "Numero": 31,
+    "Pregunta": "A team currently has several computers in their on-premises environment that runs on Windows 10. They need to share files by enabling mapped drives from the computers. Which of the following would be an ideal storage solution for this requirement?",
+    "Opciones": [
+      "Using the Azure storage - BLOB service.",
+      "Using the Azure storage - File service.",
+      "Using the Azure storage - Queue service.",
+      "Using the Azure storage - Table service."
+    ],
+    "Respuesta": "Using the Azure storage - File service."
+  },
+  {
+    "Numero": 32,
+    "Pregunta": "A company wants to have a data store hosted in Azure. Below are the key requirements for the data store: The data store must be able to store JSON documents. The data store must be able to handle data writes from multiple regions. Which of the following would be the ideal data store for this requirement?",
+    "Opciones": [
+      "Azure SQL Database.",
+      "Azure Cosmos DB.",
+      "Azure Redis Cache.",
+      "Azure Synapse Analytics."
+    ],
+    "Respuesta": "Azure Cosmos DB."
+  },
+  {
+    "Numero": 33,
+    "Pregunta": "A team is planning on deploying Azure Virtual Machines to a resource group named demogroup. The group has been created in the US Central region. Do the virtual machines deployed to the resource group also need to be deployed to the US Central region only?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 34,
+    "Pregunta": "A team is planning on assigning tags to a resource group. Would the tag be inherited by resources in the resource group?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 35,
+    "Pregunta": "A set of IAM permissions have been assigned to a resource group. Would the resources in the resource group automatically inherit the IAM permissions assigned to the resource group?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 36,
+    "Pregunta": "Which of the following service can be used to build, test and deploy a predictive analytics solution that could subsequently be used to deploy an Artificial Intelligence solution to Azure?",
+    "Opciones": [
+      "Azure Functions.",
+      "Azure Logic Apps.",
+      "Azure Batch.",
+      "Azure Machine Learning Studio."
+    ],
+    "Respuesta": "Azure Machine Learning Studio."
+  },
+  {
+    "Numero": 37,
+    "Pregunta": "Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to configure network settings for Azure virtual machines?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 38,
+    "Pregunta": "Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to save costs when it comes to hosting virtual machines in Azure?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 39,
+    "Pregunta": "Your team is planning on using the Azure Advisor tool. Would the Azure Advisor tool give recommendations on how to improve the security for Microsoft Entra ID?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 40,
+    "Pregunta": "A support engineer currently has a computer that runs Ubuntu. Which of the following Azure Management tools could be run from this computer?",
+    "Opciones": [
+      "Azure CLI.",
+      "Azure PowerShell.",
+      "The Azure Portal."
+    ],
+    "Respuesta": [
+      "Azure CLI.",
+      "Azure PowerShell.",
+      "The Azure Portal."
+    ]
+  },
+  {
+    "Numero": 41,
+    "Pregunta": "Your company has just setup an Azure account and Microsoft Entra ID. They need to ensure that when users connect to Microsoft Entra ID from the Internet from an Anonymous IP address, they are prompted to change their password automatically. Which of the following Azure service can help them achieve this requirement?",
+    "Opciones": [
+      "Microsoft Entra Connect.",
+      "Microsoft Entra ID Protection.",
+      "Microsoft Entra Privileged Identity Management.",
+      "Microsoft Defender for Identity."
+    ],
+    "Respuesta": "Microsoft Entra ID Protection."
+  },
+  {
+    "Numero": 42,
+    "Pregunta": "A company is planning on creating several virtual machines that will be used to host web and database servers. You need to limit the type of connections from the web and database servers. Which of the following can be used to fulfil this requirement?",
+    "Opciones": [
+      "Network Security Groups.",
+      "Microsoft Entra ID Protection.",
+      "Azure VPN.",
+      "Azure Route tables."
+    ],
+    "Respuesta": "Network Security Groups."
+  },
+  {
+    "Numero": 43,
+    "Pregunta": "Which of the following can be used to allow an organization to manage the compliance of resources across multiple subscriptions?",
+    "Opciones": [
+      "Resource Groups.",
+      "Management Groups.",
+      "Azure Policies.",
+      "Azure Resource Manager templates."
+    ],
+    "Respuesta": "Azure Policies."
+  },
+  {
+    "Numero": 44,
+    "Pregunta": "Your company is planning on setting an Azure environment by setting up a subscription and Microsoft Entra ID. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Basic Support plan. Does this support the requirement?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 45,
+    "Pregunta": "Your company is planning on setting an Azure environment by setting up a subscription and Microsoft Entra ID. They need to purchase a low-cost option support plan. The support plan needs to ensure 24*7 access to support engineers by phone or email. You suggest opting for the Standard Support plan. Does this support the requirement?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 46,
+    "Pregunta": "Does Microsoft release most of the Azure services in private preview before being introduced in public preview?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 47,
+    "Pregunta": "Is it true that Azure services released in public preview can only be managed via the Azure command line interface?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 48,
+    "Pregunta": "Is it true that an Azure service that is released in private preview is made available to all Azure customers?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 49,
+    "Pregunta": "Is it true that an Azure service that is released in public preview is made available to all Azure customers?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 50,
+    "Pregunta": "Is it true that an Azure service that is released as generally available is made available to all Azure customers?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 51,
+    "Pregunta": "Can a single Microsoft Account be used to manage multiple Azure subscriptions?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 52,
+    "Pregunta": "Is it possible to merge subscriptions into a single subscription?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 53,
+    "Pregunta": "A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Would they be guaranteed a service level agreement of at least 99.9% for paid Azure services?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 54,
+    "Pregunta": "A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by deploying resources across multiple regions?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 55,
+    "Pregunta": "A company has just started using Azure. They have setup a subscription and started deploying resources to Azure. Could the company increase the SLA for their resources by purchasing multiple subscriptions?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 56,
+    "Pregunta": "A set of virtual machines have been created in a subscription. You have now paid for a new subscription. Is it possible to move the virtual machines to the new subscription?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 57,
+    "Pregunta": "A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the users from the account help reduce the cost?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 58,
+    "Pregunta": "A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the user groups from the account help reduce the cost?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 59,
+    "Pregunta": "A company has defined the following resources in Azure: 10 Public IP addresses. 20 users in Microsoft Entra ID. 5 user groups in Microsoft Entra ID. They now want to reduce the costs associated with the Azure account. Would the removal of the public IP addresses from the account help reduce the cost?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 60,
+    "Pregunta": "A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the Azure portal to create the virtual machine. Would this suit the purpose?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 61,
+    "Pregunta": "A team member currently has a laptop that is based on the Android OS. The team member wants to create a virtual machine in Azure. The team member decides to use the PowerApps portal to create the virtual machine. Would this suit the purpose?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 62,
+    "Pregunta": "Which of the following URL is used to manage the creation of Azure resources?",
+    "Opciones": [
+      "`https://admin.azure.com`.",
+      "`https://admin.azurewebsites.com`.",
+      "`https://portal.microsoft.com`.",
+      "`https://portal.azurewebsites.com`.",
+      "`https://portal.azure.com`."
+    ],
+    "Respuesta": "`https://portal.azure.com`."
+  },
+  {
+    "Numero": 63,
+    "Pregunta": "You need to create a virtual machine in Azure. Which of the following storage account service is used to store the data disks for the virtual machine?",
+    "Opciones": [
+      "Blobs.",
+      "Files.",
+      "Tables.",
+      "Queues."
+    ],
+    "Respuesta": "Blobs."
+  },
+  {
+    "Numero": 64,
+    "Pregunta": "Your company needs to have a data store in Azure. Below are the key requirements for the data store: The data store should be capable of storing 10TB of data. The data would be accessed infrequently. The data would need to be visualised using PowerBI. Which of the following services could you use for this requirement? Choose 2 answers from the options given below.",
+    "Opciones": [
+      "Azure SQL database.",
+      "Azure Synapse Analytics.",
+      "Azure Data Lake.",
+      "Azure Cosmos DB."
+    ],
+    "Respuesta": [
+      "Azure Synapse Analytics.",
+      "Azure Data Lake."
+    ]
+  },
+  {
+    "Numero": 65,
+    "Pregunta": "You need to deploy several virtual machines to Azure. You need to ensure that you can assign permissions to the virtual machines simultaneously. Which of the following can be implemented to fulfil this requirement?",
+    "Opciones": [
+      "Deploy all the virtual machines to the same region.",
+      "Deploy all the virtual machines to the same resource group.",
+      "Deploy all the virtual machines to the same availability zone.",
+      "Deploy all the virtual machines to the same scale."
+    ],
+    "Respuesta": "Deploy all the virtual machines to the same resource group."
+  },
+  {
+    "Numero": 66,
+    "Pregunta": "Which of the following is a benefit of moving on-premises servers to the Azure cloud environment?",
+    "Opciones": [
+      "The Azure platform is a public cloud platform wherein all the resources can be accessed by the public.",
+      "The Azure platform is a private cloud platform wherein all the resources can be accessed only by a private handful of people.",
+      "The Azure platform is a shared platform wherein multiple companies can use a portion of the resources on the platform.",
+      "The Azure platform is an ecommerce platform wherein users can buy and sell resources as required."
+    ],
+    "Respuesta": "The Azure platform is a shared platform wherein multiple companies can use a portion of the resources on the platform."
+  },
+  {
+    "Numero": 67,
+    "Pregunta": "What are two key characteristics of the public cloud?",
+    "Opciones": [
+      "Dedicated hardware resources.",
+      "Shared infrastructure.",
+      "Pay-as-you-go model.",
+      "On-premises deployment.",
+      "Limited geographic availability."
+    ],
+    "Respuesta": [
+      "Shared infrastructure.",
+      "Pay-as-you-go model."
+    ]
+  },
+  {
+    "Numero": 68,
+    "Pregunta": "Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure SQL databases. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 69,
+    "Pregunta": "You plan to migrate a web application to Azure. The web application is accessed by external users. You need to recommend a cloud deployment solution to minimize the amount of administrative effort used to manage the web application. What should you include in the recommendation?",
+    "Opciones": [
+      "Software as a Service (SaaS).",
+      "Platform as a Service (PaaS).",
+      "Infrastructure as a Service (laaS).",
+      "Database as a Service (DaaS)."
+    ],
+    "Respuesta": "Platform as a Service (PaaS)."
+  },
+  {
+    "Numero": 70,
+    "Pregunta": "You have an on-premises network that contains 100 servers. You need to recommend a solution that provides additional resources to your users. The solution must minimize capital and operational expenditure costs. What should you include in the recommendation?",
+    "Opciones": [
+      "A complete migration to the public cloud.",
+      "An additional data center.",
+      "A private cloud.",
+      "A hybrid cloud."
+    ],
+    "Respuesta": "A hybrid cloud."
+  },
+  {
+    "Numero": 71,
+    "Pregunta": "You plan to migrate several servers from an on-premises network to Azure. What is an advantage of using a public cloud service for the servers over an on-premises network?",
+    "Opciones": [
+      "The public cloud is owned by the public, NOT a private corporation.",
+      "The public cloud is a crowd-sourcing solution that provides corporations with the ability to enhance the cloud.",
+      "All public cloud resources can be freely accessed by every member of the public.",
+      "The public cloud is a shared entity whereby multiple corporations each use a portion of the resources in the cloud."
+    ],
+    "Respuesta": "The public cloud is a shared entity whereby multiple corporations each use a portion of the resources in the cloud."
+  },
+  {
+    "Numero": 72,
+    "Pregunta": "You have 1,000 virtual machines hosted on the Hyper-V hosts in a data center. You plan to migrate all the virtual machines to an Azure pay-as-you-go subscription. You need to identify which expenditure model to use for the planned Azure solution. Which expenditure model should you identify?",
+    "Opciones": [
+      "Operational.",
+      "Elastic.",
+      "Capital.",
+      "Scalable."
+    ],
+    "Respuesta": "Operational."
+  },
+  {
+    "Numero": 73,
+    "Pregunta": "You plan to provision Infrastructure as a Service (laaS) resources in Azure. Which resource is an example of laaS?",
+    "Opciones": [
+      "An Azure web app.",
+      "An Azure virtual machine.",
+      "An Azure logic app.",
+      "An Azure SQL database."
+    ],
+    "Respuesta": "An Azure virtual machine."
+  },
+  {
+    "Numero": 74,
+    "Pregunta": "A team of developers at your company plans to deploy, and then remove, 50 virtual machines each week. All the virtual machines are configured by using Azure Resource Manager templates. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?",
+    "Opciones": [
+      "Azure Reserved Virtual Machine (VM) Instances.",
+      "Azure DevTest Labs.",
+      "Azure virtual machine scale sets.",
+      "Microsoft Managed Desktop."
+    ],
+    "Respuesta": "Azure DevTest Labs."
+  },
+  {
+    "Numero": 75,
+    "Pregunta": "Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure virtual machines, Azure SQL databases, and Azure Storage accounts. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 76,
+    "Pregunta": "Your company plans to deploy several custom applications to Azure. The applications will provide invoicing services to the customers of the company. Each application will have several prerequisite applications and services installed. You need to recommend a cloud deployment solution for all the applications. What should you recommend?",
+    "Opciones": [
+      "Software as a Service (SaaS).",
+      "Platform as a Service (PaaS).",
+      "Infrastructure as a Service (laas)."
+    ],
+    "Respuesta": "Infrastructure as a Service (laas)."
+  },
+  {
+    "Numero": 77,
+    "Pregunta": "[An Azure region] contains one or more data centers that are connected by using a low-latency network.",
+    "Opciones": [
+      "No change is needed.",
+      "Is found in each country where Microsoft has a subsidiary office.",
+      "Can be found in every country in Europe and the Americas only.",
+      "Contains one or more data centers that are connected by using a high-latency network."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 78,
+    "Pregunta": "A support engineer plans to perform several Azure management tasks by using the Azure CLI. You install the CLI on a computer. You need to tell the support engineer which tools to use to run the CLI. Which two tools should you instruct the support engineer to use?",
+    "Opciones": [
+      "Command Prompt.",
+      "Azure Resource Explorer.",
+      "Windowe PowerShell.",
+      "Windows Defender Firewall.",
+      "Network and Sharing Center."
+    ],
+    "Respuesta": [
+      "Command Prompt.",
+      "Windowe PowerShell."
+    ]
+  },
+  {
+    "Numero": 79,
+    "Pregunta": "You plan to store 20 TB of data in Azure. The data will be accessed infrequently and visualized by using Microsoft Power BI. You need to recommend a storage solution for the data Which two solutions should you recommend?",
+    "Opciones": [
+      "Azure Data Lake.",
+      "Azure Cosmos DB.",
+      "Azure Synapse Analytics.",
+      "Azure SQL Database.",
+      "Azure Database for PostgreSQL."
+    ],
+    "Respuesta": [
+      "Azure Data Lake.",
+      "Azure Synapse Analytics."
+    ]
+  },
+  {
+    "Numero": 80,
+    "Pregunta": "You need to identify the type of failure for which an Azure Availability Zone can be used to protect access to Azure services. What should you identify?",
+    "Opciones": [
+      "A physical server failure.",
+      "An Azure region failure.",
+      "A storage failure.",
+      "An Azure data center failure."
+    ],
+    "Respuesta": "An Azure data center failure."
+  },
+  {
+    "Numero": 81,
+    "Pregunta": "You have a virtual machine named VM1 that runs Windows Server 2016. VM1 is in the East US Azure region. Which Azure service should you use from the Azure portal to view service failure notifications that can affect the availability of VM1?",
+    "Opciones": [
+      "Azure Service Fabric.",
+      "Azure Monitor.",
+      "Azure virtual machines.",
+      "Azure Advisor."
+    ],
+    "Respuesta": "Azure virtual machines."
+  },
+  {
+    "Numero": 82,
+    "Pregunta": "An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Linux and has the Azure CLI tools installed. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 83,
+    "Pregunta": "An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Chrome OS and uses Azure Cloud Shell Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 84,
+    "Pregunta": "You have an Azure environment that contains 10 virtual networks and 100 virtual machines You need to limit the amount of inbound traffic to all the Azure virtual network. What should you create?",
+    "Opciones": [
+      "One application security group (ASG).",
+      "10 virtual network gateways.",
+      "10 Azure ExpressRoute circuits.",
+      "One Azure firewall."
+    ],
+    "Respuesta": "One Azure firewall."
+  },
+  {
+    "Numero": 85,
+    "Pregunta": "You have an Azure environment that contains multiple Azure virtual machines. You plan to implement a solution that enables the client computers on your on-premises network to communicate to the Azure virtual machines. You need to recommend which Azure resources must be created for the planned solution. Which two Azure resources should you include in the recommendation?",
+    "Opciones": [
+      "A virtual network gateway.",
+      "A load balancer.",
+      "An application gateway.",
+      "A virtual network.",
+      "A gateway subnet."
+    ],
+    "Respuesta": [
+      "A virtual network gateway.",
+      "A gateway subnet."
+    ]
+  },
+  {
+    "Numero": 86,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 87,
+    "Pregunta": "Your company plans to move several servers to Azure. The company compliance policy states that a server named FinServer must be on a separate network segment. You are evaluating which Azure services can be used to meet the compliance policy requirements. Which Azure solution should you recommend?",
+    "Opciones": [
+      "A resource group for FinServer and another resource group for all the other servers.",
+      "A virtual network for FinServer and another virtual network for all the other servers.",
+      "A VPN for FinServer and a virtual network gateway for another server.",
+      "One resource group for all the servers and a resource lock for FinServer."
+    ],
+    "Respuesta": "A virtual network for FinServer and another virtual network for all the other servers."
+  },
+  {
+    "Numero": 88,
+    "Pregunta": "You plan to map a network drive from several computers that run Windows 10 to Azure Storage. You need to create a storage solution in Azure for the planned mapped drive. What should you create?",
+    "Opciones": [
+      "An Azure SQL database.",
+      "A virtual machine data disk.",
+      "A Files service in a storage account.",
+      "A Blobs service in a storage account."
+    ],
+    "Respuesta": "A Files service in a storage account."
+  },
+  {
+    "Numero": 89,
+    "Pregunta": "Your company plans to migrate all its network resources to Azure. You need to start the planning process by exploring Azure. What should you create first?",
+    "Opciones": [
+      "A subscription.",
+      "A resource group.",
+      "A virtual network.",
+      "A management group."
+    ],
+    "Respuesta": "A subscription."
+  },
+  {
+    "Numero": 90,
+    "Pregunta": "You have an on-premises application that sends email notifications automatically based on a rule, You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the application. What should you include in the recommendation?",
+    "Opciones": [
+      "A web app.",
+      "A server image in Azure Marketplace.",
+      "A logic app.",
+      "An API app."
+    ],
+    "Respuesta": "A logic app."
+  },
+  {
+    "Numero": 91,
+    "Pregunta": "You plan to deploy a website to Azure. The website will be accessed by users worldwide and will host large video files. You need to recommend which Azure feature must be used to provide the best video playback experience. What should you recommend?",
+    "Opciones": [
+      "An application gateway.",
+      "An Azure ExpressRoute circuit.",
+      "A content delivery network (CDN).",
+      "An Azure Traffic Manager profile."
+    ],
+    "Respuesta": "A content delivery network (CDN)."
+  },
+  {
+    "Numero": 92,
+    "Pregunta": "Your company plans to deploy several million sensors that will upload data to Azure. You need to identify which Azure resources must be created to support the planned solution. Which two Azure resources should you identify?",
+    "Opciones": [
+      "Azure Data Lake.",
+      "Azure Queue storage.",
+      "Azure File Storage.",
+      "Azure IoT Hub.",
+      "Azure Notification Hubs."
+    ],
+    "Respuesta": [
+      "Azure Data Lake.",
+      "Azure IoT Hub."
+    ]
+  },
+  {
+    "Numero": 93,
+    "Pregunta": "You have an Azure web app. You need to manage the settings of the web app from an iPhone. What are two Azure management tools that you can use?",
+    "Opciones": [
+      "Azure CLI.",
+      "The Azure portal.",
+      "Azure Cloud Shell.",
+      "Windows PowerShell.",
+      "Azure Storage Explorer."
+    ],
+    "Respuesta": [
+      "The Azure portal.",
+      "Azure Cloud Shell."
+    ]
+  },
+  {
+    "Numero": 94,
+    "Pregunta": "Company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?",
+    "Opciones": [
+      "Azure Logic Apps.",
+      "Azure Machine Learning Studio.",
+      "Azure Batch.",
+      "Azure Cosmos DB."
+    ],
+    "Respuesta": "Azure Machine Learning Studio."
+  },
+  {
+    "Numero": 95,
+    "Pregunta": "You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. `az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys`. You need to create VM1 in Subscription1 by using the command. Solution: From the Azure portal, launch Azure Cloud Shell and select PowerShell. Run the command in Cloud Shell. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 96,
+    "Pregunta": "An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs Windows 10 and has the Azure PowerShell module installed. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 97,
+    "Pregunta": "Which service provides serverless computing in Azure?",
+    "Opciones": [
+      "Azure Virtual Machines.",
+      "Azure Functions.",
+      "Azure storage account.",
+      "Azure Container Instances."
+    ],
+    "Respuesta": "Azure Functions."
+  },
+  {
+    "Numero": 98,
+    "Pregunta": "You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. `az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys`. You need to create VM1 in Subscription1 by using the command. Solution: From the Azure portal, launch Azure Cloud Shell and select Bash. Run the command in Cloud Shell. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 99,
+    "Pregunta": "Your company has several business units. Each business unit requires 20 different Azure resources for daily operation. All the business units require the same type of Azure resources. You need to recommend a solution to automate the creation of the Azure resources. What should you include in the recommendations?",
+    "Opciones": [
+      "Azure Resource Manager templates.",
+      "Virtual machine scale sets.",
+      "The Azure API Management service.",
+      "Management groups."
+    ],
+    "Respuesta": "Azure Resource Manager templates."
+  },
+  {
+    "Numero": 100,
+    "Pregunta": "Which Azure service should you use to collect events from multiple resources into a centralized repository?",
+    "Opciones": [
+      "Azure Event Hubs.",
+      "Azure Analysis Services.",
+      "Azure Monitor.",
+      "Azure Stream Analytics."
+    ],
+    "Respuesta": "Azure Event Hubs."
+  },
+  {
+    "Numero": 101,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the PowerApps portal. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 102,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use the Azure portal. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 103,
+    "Pregunta": "Which Azure service provides a set of version control tools to manage code?",
+    "Opciones": [
+      "Azure Repos.",
+      "Azure DevTest Labs.",
+      "Azure Storage.",
+      "Azure Cosmos DB."
+    ],
+    "Respuesta": "Azure Repos."
+  },
+  {
+    "Numero": 104,
+    "Pregunta": "Your company plans to automate the deployment of servers to Azure. Your manager is concerned that you may expose administrative credentials during the deployment. You need to recommend an Azure solution that encrypts the administrative credentials during the deployment. What should you include in the recommendation?",
+    "Opciones": [
+      "Azure Key Vault.",
+      "Microsoft Purview Information Protection.",
+      "Microsoft Defender for Cloud.",
+      "Azure Multi-Factor Authentication (MFA)."
+    ],
+    "Respuesta": "Azure Key Vault."
+  },
+  {
+    "Numero": 105,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to control the ports that devices on the Internet can use to access the virtual machines. What should you use?",
+    "Opciones": [
+      "Network Security Group (NSG).",
+      "Microsoft Entra ID role.",
+      "Microsoft Entra ID group.",
+      "Azure key vault."
+    ],
+    "Respuesta": "Network Security Group (NSG)."
+  },
+  {
+    "Numero": 106,
+    "Pregunta": "Azure Germany can be used by legal residents of Germany only.",
+    "Opciones": [
+      "No change is needed.",
+      "Only enterprises that are registered in Germany.",
+      "Only enterprises that purchase their azure licenses from a partner based in Germany.",
+      "This service has been discontinued. Azure Germany was retired in 2021."
+    ],
+    "Respuesta": "This service has been discontinued. Azure Germany was retired in 2021."
+  },
+  {
+    "Numero": 107,
+    "Pregunta": "Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution. You modify a Network Security Group (NSG). Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 108,
+    "Pregunta": "Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure firewall. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 109,
+    "Pregunta": "Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify an Azure Traffic Manager profile. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 110,
+    "Pregunta": "Which two types of customers are eligible to use Azure Government to develop a cloud solution?",
+    "Opciones": [
+      "A Canadian government contractor.",
+      "A European government contractor.",
+      "A United States government entity.",
+      "A United States government contractor.",
+      "A European government entity."
+    ],
+    "Respuesta": [
+      "A United States government entity.",
+      "A United States government contractor."
+    ]
+  },
+  {
+    "Numero": 111,
+    "Pregunta": "You need to ensure that when Microsoft Entra ID users connect to Microsoft Entra ID from the Internet by using an anonymous IP address, the users are prompted automatically to change their password. Which Azure service should you use?",
+    "Opciones": [
+      "Microsoft Entra Connect Health.",
+      "Microsoft Entra Privileged Identity Management.",
+      "Microsoft Defender for Identity.",
+      "Microsoft Entra ID Protection."
+    ],
+    "Respuesta": "Microsoft Entra ID Protection."
+  },
+  {
+    "Numero": 112,
+    "Pregunta": "Your company plans to deploy several web servers and several database servers to Azure. You need to recommend an Azure solution to limit the types of connections from the web servers to the database servers. What should you include in the recommendation?",
+    "Opciones": [
+      "Network Security Groups (NSGs).",
+      "Azure Service Bus.",
+      "A local network gateway.",
+      "A route filter."
+    ],
+    "Respuesta": "Network Security Groups (NSGs)."
+  },
+  {
+    "Numero": 113,
+    "Pregunta": "To what should an application connect to retrieve security tokens?",
+    "Opciones": [
+      "An Azure Storage account.",
+      "Microsoft Entra ID.",
+      "A certificate store.",
+      "An Azure key vault."
+    ],
+    "Respuesta": "Microsoft Entra ID."
+  },
+  {
+    "Numero": 114,
+    "Pregunta": "Which service provides network traffic filtering across multiple Azure subscriptions and virtual networks?",
+    "Opciones": [
+      "Azure Firewall.",
+      "An application security group.",
+      "Azure DDoS protection.",
+      "A Network Security Group (NSG)."
+    ],
+    "Respuesta": "Azure Firewall."
+  },
+  {
+    "Numero": 115,
+    "Pregunta": "Which Azure service should you use to store certificates?",
+    "Opciones": [
+      "Microsoft Defender for Cloud.",
+      "An Azure Storage account.",
+      "Azure Key Vault.",
+      "Microsoft Purview Information Protection."
+    ],
+    "Respuesta": "Azure Key Vault."
+  },
+  {
+    "Numero": 116,
+    "Pregunta": "You have a resource group named RG1. You plan to create virtual networks and app services in RG1. You need to prevent the creation of virtual machines only in RG1. What should you use?",
+    "Opciones": [
+      "A lock.",
+      "An Azure role.",
+      "A tag.",
+      "An Azure policy."
+    ],
+    "Respuesta": "An Azure policy."
+  },
+  {
+    "Numero": 117,
+    "Pregunta": "What can Microsoft Purview Information Protection encrypt?",
+    "Opciones": [
+      "Network traffic.",
+      "Documents and email messages.",
+      "An Azure Storage account.",
+      "An Azure SQL database."
+    ],
+    "Respuesta": "Documents and email messages."
+  },
+  {
+    "Numero": 118,
+    "Pregunta": "From [Azure Monitor], you can view which user turned off a specific virtual machine during the last 14 days.",
+    "Opciones": [
+      "No change is needed.",
+      "Azure Event Hubs.",
+      "Azure Activity Log.",
+      "Azure Service Health."
+    ],
+    "Respuesta": "Azure Activity Log."
+  },
+  {
+    "Numero": 119,
+    "Pregunta": "Your company has an Azure subscription that contains resources in several regions. A company policy states that administrators must only be allowed to create additional Azure resources in a region in the country where their office is located. You need to create the Azure resource that must be used to meet the policy requirement. What should you create?",
+    "Opciones": [
+      "A read-only lock.",
+      "An Azure policy.",
+      "A management group.",
+      "A reservation."
+    ],
+    "Respuesta": "An Azure policy."
+  },
+  {
+    "Numero": 120,
+    "Pregunta": "From [Azure Cloud Shell], you can track your company regulatory standards and regulations, such as ISO 27001.",
+    "Opciones": [
+      "No change is needed.",
+      "The Microsoft Cloud Partner Portal.",
+      "Compliance Manager.",
+      "The Trust Center."
+    ],
+    "Respuesta": "Compliance Manager."
+  },
+  {
+    "Numero": 121,
+    "Pregunta": "You need to configure an Azure solution that meets the following requirements: Secures websites from attacks. Generates reports that contain details of attempted attacks. What should you include in the solution?",
+    "Opciones": [
+      "Azure Firewall.",
+      "A Network Security Group (NSG).",
+      "Microsoft Purview Information Protection.",
+      "DDoS protection."
+    ],
+    "Respuesta": "DDoS protection."
+  },
+  {
+    "Numero": 122,
+    "Pregunta": "You attempt to create several managed Microsoft SQL Server instances in an Azure environment and receive a message that you must increase your Azure subscription limits. What should you do to increase the limits?",
+    "Opciones": [
+      "Create a service health alert.",
+      "Upgrade your support plan.",
+      "Modify an Azure policy.",
+      "Create a new support request."
+    ],
+    "Respuesta": "Create a new support request."
+  },
+  {
+    "Numero": 123,
+    "Pregunta": "Your company has 10 offices. You plan to generate several billing reports from the Azure portal. Each report will contain the Azure resource utilization of each office. Which Azure Resource Manager feature should you use before you generate the reports?",
+    "Opciones": [
+      "Tags.",
+      "Templates.",
+      "Locks.",
+      "Policies."
+    ],
+    "Respuesta": "Tags."
+  },
+  {
+    "Numero": 124,
+    "Pregunta": "Your company plans to migrate to Azure. The company has several departments. All the Azure resources used by each department will be managed by a department administrator. What are two possible techniques to segment Azure for the departments?",
+    "Opciones": [
+      "Multiple subscriptions.",
+      "Multiple Microsoft Entra ID directories.",
+      "Multiple regions.",
+      "Multiple resource groups."
+    ],
+    "Respuesta": [
+      "Multiple subscriptions.",
+      "Multiple resource groups."
+    ]
+  },
+  {
+    "Numero": 125,
+    "Pregunta": "In which Azure support plans can you open a new support request?",
+    "Opciones": [
+      "Professional Direct only.",
+      "Professional Direct, and Standard only.",
+      "Professional Direct, Standard, and Developer only.",
+      "Professional Direct, Standard, Developer, and Basic."
+    ],
+    "Respuesta": "Professional Direct, Standard, Developer, and Basic."
+  },
+  {
+    "Numero": 126,
+    "Pregunta": "What is guaranteed in an Azure Service Level Agreement (SLA) for virtual machines?",
+    "Opciones": [
+      "Uptime.",
+      "Feature availability.",
+      "Bandwidth.",
+      "Performance."
+    ],
+    "Respuesta": "Uptime."
+  },
+  {
+    "Numero": 127,
+    "Pregunta": "Your company plans to purchase an Azure subscription. The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Basic support plan. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 128,
+    "Pregunta": "Your company plans to request an architectural review of an Azure environment from Microsoft. The company currently has a Basic support plan. You need to recommend a new support plan for the company. The solution must minimize costs. Which support plan should you recommend?",
+    "Opciones": [
+      "Developer.",
+      "Professional Direct.",
+      "Standard."
+    ],
+    "Respuesta": "Developer."
+  },
+  {
+    "Numero": 129,
+    "Pregunta": "What is required to use Azure Cost Management?",
+    "Opciones": [
+      "A Dev/Test subscription.",
+      "Software Assurance.",
+      "An Enterprise Agreement (EA).",
+      "A pay-as-you-go subscription."
+    ],
+    "Respuesta": "A pay-as-you-go subscription."
+  },
+  {
+    "Numero": 130,
+    "Pregunta": "Your Azure trial account expired last week. You are now unable to [create additional Microsoft Entra ID user accounts].",
+    "Opciones": [
+      "No change is needed.",
+      "Start an existing Azure virtual machine.",
+      "Access your data stored in Azure.",
+      "Access the Azure portal."
+    ],
+    "Respuesta": "Start an existing Azure virtual machine."
+  },
+  {
+    "Numero": 131,
+    "Pregunta": "Your company plans to purchase an Azure subscription, The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Premier support plan. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 132,
+    "Pregunta": "Your company has 10 departments. The company plans to implement Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?",
+    "Opciones": [
+      "A reservation.",
+      "A subscription.",
+      "A resource group.",
+      "A container instance."
+    ],
+    "Respuesta": "A subscription."
+  },
+  {
+    "Numero": 133,
+    "Pregunta": "Which statement accurately describes the Modern Lifecycle Policy for Azure services?",
+    "Opciones": [
+      "Microsoft provides mainstream support for a service for five years.",
+      "Microsoft provides a minimum of 12 months notice before ending support for a service.",
+      "After a service is made generally available, Microsoft provides support for the service for a minimum of four years.",
+      "When a service is retired, you can purchase extended support for the service for up to five years."
+    ],
+    "Respuesta": "Microsoft provides a minimum of 12 months notice before ending support for a service."
+  },
+  {
+    "Numero": 134,
+    "Pregunta": "You can use Advisor recommendations in Azure to send email alerts when the cost of the current billing Azure subscription exceeds a specified limit.",
+    "Opciones": [
+      "No change is needed.",
+      "Access control (LAM).",
+      "Budget alerts.",
+      "Compliance."
+    ],
+    "Respuesta": "Budget alerts."
+  },
+  {
+    "Numero": 135,
+    "Pregunta": "To implement a hybrid cloud model, a company must first have a private cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 136,
+    "Pregunta": "A company can extend the computing resources of its internal network by using a hybrid cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 137,
+    "Pregunta": "In a public cloud model, only guest users at your company can access the resources in the cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 138,
+    "Pregunta": "You have an on-premises network that contains several servers. You plan to migrate all the servers to Azure. You need to recommend a solution to ensure that some of the servers are available if a single Azure data center goes offline for an extended period. What should you include in the recommendation?",
+    "Opciones": [
+      "Fault tolerance.",
+      "Elasticity.",
+      "Scalability.",
+      "Low latency."
+    ],
+    "Respuesta": "Fault tolerance."
+  },
+  {
+    "Numero": 139,
+    "Pregunta": "An organization that hosts its infrastructure [in a private cloud] can close its data center.",
+    "Opciones": [
+      "No change is needed.",
+      "In a hybrid cloud.",
+      "In the public cloud.",
+      "On a Hyper-V host."
+    ],
+    "Respuesta": "In the public cloud."
+  },
+  {
+    "Numero": 140,
+    "Pregunta": "What are two characteristics of the public cloud?",
+    "Opciones": [
+      "Dedicated hardware.",
+      "Unsecured connections.",
+      "Limited storage.",
+      "Metered pricing.",
+      "Self-service management."
+    ],
+    "Respuesta": [
+      "Metered pricing.",
+      "Self-service management."
+    ]
+  },
+  {
+    "Numero": 141,
+    "Pregunta": "Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that meets the company migration plan. Solution: You create an Azure App Service and Azure virtual machines that have Microsoft SQL Server installed. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 142,
+    "Pregunta": "Your company hosts an accounting application named App1 that is used by all the customers of the company. App1 has low usage during the first three weeks of each month and very high usage during the last week of each month. Which benefit of Azure Cloud Services supports cost management for this type of usage pattern?",
+    "Opciones": [
+      "High availability.",
+      "High latency.",
+      "Elasticity.",
+      "Load balancing."
+    ],
+    "Respuesta": "Elasticity."
+  },
+  {
+    "Numero": 143,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more scale sets. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 144,
+    "Pregunta": "You plan to provision Infrastructure as a Service (IaaS) resources in Azure. Which resource is an example of IaaS?",
+    "Opciones": [
+      "An Azure web app.",
+      "An Azure virtual machine.",
+      "An Azure logic app.",
+      "An Azure SQL database."
+    ],
+    "Respuesta": "An Azure virtual machine."
+  },
+  {
+    "Numero": 145,
+    "Pregunta": "A team of developers at your company plans to deploy, and then remove, 50 customized virtual machines each week. Thirty of the virtual machines run Windows Server 2016 and 20 of the virtual machines run Ubuntu Linux. You need to recommend which Azure service will minimize the administrative effort required to deploy and remove the virtual machines. What should you recommend?",
+    "Opciones": [
+      "Azure Reserved Virtual Machines (VM) Instances.",
+      "Azure virtual machine scale sets.",
+      "Azure DevTest Labs.",
+      "Microsoft Managed Desktop."
+    ],
+    "Respuesta": "Azure DevTest Labs."
+  },
+  {
+    "Numero": 146,
+    "Pregunta": "One of the benefits of Azure Synapse Analytics is that [high availability] is built into the platform.",
+    "Opciones": [
+      "No change is needed.",
+      "Automatic scaling.",
+      "Data compression.",
+      "Versioning."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 147,
+    "Pregunta": "Match the Azure services to the correct descriptions.",
+    "Opciones": [
+      "Provide operating system virtualization: Azure App Service. Provide portable environment for virtualized applications: Azure virtual machines. Used to build, deploy, and scale web apps: Azure Container Instances. Provide a platform for serverless code: Azure Functions.",
+      "Provide operating system virtualization: Azure Functions. Provide portable environment for virtualized applications: Azure virtual machines. Used to build, deploy, and scale web apps: Azure Container Instances. Provide a platform for serverless code: Azure App Service.",
+      "Provide operating system virtualization: Azure virtual machines. Provide portable environment for virtualized applications: Azure Container Instances. Used to build, deploy, and scale web apps: Azure App Service. Provide a platform for serverless code: Azure Functions.",
+      "Provide operating system virtualization: Azure virtual machines. Provide portable environment for virtualized applications: Azure Functions. Used to build, deploy, and scale web apps: Azure App Service. Provide a platform for serverless code: Azure Container Instances."
+    ],
+    "Respuesta": "Provide operating system virtualization: Azure virtual machines. Provide portable environment for virtualized applications: Azure Container Instances. Used to build, deploy, and scale web apps: Azure App Service. Provide a platform for serverless code: Azure Functions.",
+    "Imagen": "question147.png"
+  },
+  {
+    "Numero": 148,
+    "Pregunta": "An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Solution: Run the script from a computer that runs macOS and has PowerShell Core 6.0 installed. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 149,
+    "Pregunta": "You have an Azure environment that contains 10 virtual networks and 100 virtual machines. You need to limit the amount of inbound traffic to all the Azure virtual networks. What should you create?",
+    "Opciones": [
+      "One application security group (ASG).",
+      "10 virtual network gateways.",
+      "10 Azure ExpressRoute circuits.",
+      "One Azure firewall."
+    ],
+    "Respuesta": "One Azure firewall."
+  },
+  {
+    "Numero": 150,
+    "Pregunta": "You have an on-premises application that sends email notifications automatically based on a rule. You plan to migrate the application to Azure. You need to recommend a serverless computing solution for the application. What should you include in the recommendation?",
+    "Opciones": [
+      "A web app.",
+      "A server image in Azure Marketplace.",
+      "A logic app.",
+      "An API app."
+    ],
+    "Respuesta": "A logic app."
+  },
+  {
+    "Numero": 151,
+    "Pregunta": "You have an application that is comprised of an Azure web app that has a Service Level Agreement (SLA) of 99.95 percent and an Azure SQL database that has an SLA of 99.99 percent. The composite SLA for the application is [the product of both SLAs, which equals 99.94 percent].",
+    "Opciones": [
+      "No change is needed.",
+      "The lowest SLA associated to the application, which is 99.95 percent.",
+      "The highest SLA associated to the application, which is 99.99 percent.",
+      "The difference between the two SLAs, which is 0.05 percent."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 152,
+    "Pregunta": "You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. `az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys`. You need to create VM1 in Subscription1 by using the command. Solution: From a computer that runs Windows 10, install Azure CLI. From PowerShell, sign in to Azure and then run the command. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 153,
+    "Pregunta": "You have an Azure subscription named Subscription1. You sign in to the Azure portal and create a resource group named RG1. From Azure documentation, you have the following command that creates a virtual machine named VM1. `az vm create --resource-group RG1 --name VM1 --image UbuntuLTS --generate-ssh-keys`. You need to create VM1 in Subscription1 by using the command. Solution: From a computer that runs Windows 10, install Azure CLI. From a command prompt, sign in to Azure and then run the command. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 154,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 155,
+    "Pregunta": "[Azure Databricks] is an Apache Spark-based analytics service.",
+    "Opciones": [
+      "No change is needed.",
+      "Azure Data Factory.",
+      "Azure DevOps.",
+      "Azure HDInsight."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 156,
+    "Pregunta": "Azure Site Recovery provides [fault tolerance] for virtual machines.",
+    "Opciones": [
+      "No change is needed.",
+      "Disaster recovery.",
+      "Elasticity.",
+      "High availability."
+    ],
+    "Respuesta": "Disaster recovery."
+  },
+  {
+    "Numero": 157,
+    "Pregunta": "An Availability Zone in Azure has physically separate locations [across two continents].",
+    "Opciones": [
+      "No change is needed.",
+      "Within a single Azure region.",
+      "Within multiple Azure regions.",
+      "Within a single Azure datacenter."
+    ],
+    "Respuesta": "Within a single Azure region."
+  },
+  {
+    "Numero": 158,
+    "Pregunta": "Your company plans to migrate all on-premises data to Azure. You need to identify whether Azure complies with the company regional requirements. What should you use?",
+    "Opciones": [
+      "The Knowledge Center.",
+      "Azure Marketplace.",
+      "The MyApps portal.",
+      "The Trust Center."
+    ],
+    "Respuesta": "The Trust Center."
+  },
+  {
+    "Numero": 159,
+    "Pregunta": "Azure Key Vault is used to store secrets for [Microsoft Entra ID user accounts].",
+    "Opciones": [
+      "No change is needed.",
+      "Microsoft Entra ID administrative accounts.",
+      "Personally Identifiable Information (PII).",
+      "Server applications."
+    ],
+    "Respuesta": "Server applications."
+  },
+  {
+    "Numero": 160,
+    "Pregunta": "After you create a virtual machine, you need to modify the [Network Security Group (NSG)] to allow connections to TCP port 8080 on the virtual machine.",
+    "Opciones": [
+      "No change is needed.",
+      "Virtual network gateway.",
+      "Virtual network.",
+      "Route table."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 161,
+    "Pregunta": "Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a Network Security Group (NSG). Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 162,
+    "Pregunta": "Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. Solution: You modify a DDoS protection plan. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 163,
+    "Pregunta": "[Resource groups] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.",
+    "Opciones": [
+      "No change is needed.",
+      "Management groups.",
+      "Azure policies.",
+      "Azure App Service plans."
+    ],
+    "Respuesta": "Azure policies."
+  },
+  {
+    "Numero": 164,
+    "Pregunta": "Your network contains an Active Directory forest. The forest contains 5,000 user accounts. Your company plans to migrate all network resources to Azure and to decommission the on-premises data center. You need to recommend a solution to minimize the impact on users after the planned migration. What should you recommend?",
+    "Opciones": [
+      "Implement Azure Multi-Factor Authentication (MFA).",
+      "Sync all the Active Directory user accounts to Microsoft Entra ID.",
+      "Instruct all users to change their password.",
+      "Create a guest user account in Microsoft Entra ID for each user."
+    ],
+    "Respuesta": "Sync all the Active Directory user accounts to Microsoft Entra ID."
+  },
+  {
+    "Numero": 165,
+    "Pregunta": "What should you use to evaluate whether your company Azure environment meets regulatory requirements?",
+    "Opciones": [
+      "The Knowledge Center website.",
+      "The Advisor blade from the Azure portal.",
+      "Compliance Manager from the Service Trust Portal.",
+      "The Security Center blade from the Azure portal."
+    ],
+    "Respuesta": "Compliance Manager from the Service Trust Portal."
+  },
+  {
+    "Numero": 166,
+    "Pregunta": "The [Microsoft Online Services Privacy Statement] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.",
+    "Opciones": [
+      "No change is needed.",
+      "Microsoft Online Services Terms.",
+      "Microsoft Online Service Level Agreement.",
+      "Online Subscription Agreement for Microsoft Azure."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 167,
+    "Pregunta": "If Microsoft plans to end support for an Azure service that does NOT have a successor service, Microsoft will provide notification at least [12 months] before.",
+    "Opciones": [
+      "No change is needed.",
+      "6 months.",
+      "90 days.",
+      "30 days."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 168,
+    "Pregunta": "Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Solution: You remove the unused network interfaces. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 169,
+    "Pregunta": "Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses 10. network interfaces. You need to reduce the Azure costs for the company. Solution: You remove the unused public IP addresses. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 170,
+    "Pregunta": "Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses 10. network interfaces. You need to reduce the Azure costs for the company. Solution: You remove the unused user accounts. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 171,
+    "Pregunta": "A support plan solution that gives you best practice information, health status and notifications, and 24/7 access to billing information at the lowest possible cost is a [Standard] support plan.",
+    "Opciones": [
+      "No change is needed.",
+      "Developer.",
+      "Basic.",
+      "Professional Direct."
+    ],
+    "Respuesta": "Basic."
+  },
+  {
+    "Numero": 172,
+    "Pregunta": "You can create an Azure support request from [support.microsoft.com].",
+    "Opciones": [
+      "No change is needed.",
+      "The Azure portal.",
+      "The Knowledge Center.",
+      "The Security & Compliance admin center."
+    ],
+    "Respuesta": "The Azure portal."
+  },
+  {
+    "Numero": 173,
+    "Pregunta": "Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Solution: You remove the unused groups. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 174,
+    "Pregunta": "The Azure [Standard] support plan is the lowest cost option to receive 24×7 access to support engineers by phone.",
+    "Opciones": [
+      "No change is needed.",
+      "Developer.",
+      "Basic.",
+      "Professional Direct."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 175,
+    "Pregunta": "All Azure services that are in public preview are [provided without any documentation].",
+    "Opciones": [
+      "No change is needed.",
+      "Only configurable from Azure CLI.",
+      "Excluded from the Service Level Agreements.",
+      "Only configurable from the Azure portal."
+    ],
+    "Respuesta": "Excluded from the Service Level Agreements."
+  },
+  {
+    "Numero": 176,
+    "Pregunta": "An Azure service is available to all Azure customers when it is in [public preview].",
+    "Opciones": [
+      "No change is needed.",
+      "Private preview.",
+      "Development.",
+      "An Enterprise Agreement (EA) subscription."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 177,
+    "Pregunta": "Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include elasticity in your plan. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 178,
+    "Pregunta": "Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include scalability in your plan. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 179,
+    "Pregunta": "Your company has an on-premises network with numerous servers, which they intend to migrate to Azure. You have been tasked with devising a plan that allows for the availability of a few of the servers, in the event that one of the Azure data centers becomes unavailable for a lengthy interval. Solution: You should include fault tolerance in your plan. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 180,
+    "Pregunta": "You are tasked with deploying Azure virtual machines for your company. You need to make use of the appropriate cloud deployment solution. Solution: You should make use of Software as a Service (SaaS). Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 181,
+    "Pregunta": "You are tasked with deploying Azure virtual machines for your company. You need to make use of the appropriate cloud deployment solution. Solution: You should make use of Platform as a Service (PaaS). Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 182,
+    "Pregunta": "You are tasked with deploying Azure virtual machines for your company. You need to make use of the appropriate cloud deployment solution. Solution: You should make use of Infrastructure as a Service (IaaS). Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 183,
+    "Pregunta": "Your company has on-premises network includes a large number of servers. They would like to make extra resources available to their users, while keeping capital and operational overheads to a minimum. You are required to make recommendations that should be included in the overall solution. Solution: You should indorse the use of an added data center as part of the solution. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 184,
+    "Pregunta": "Your company has on-premises network includes a large number of servers. They would like to make extra resources available to their users, while keeping capital and operational overheads to a minimum. You are required to make recommendations that should be included in the overall solution. Solution: You should indorse the use of a hybrid cloud as part of the solution. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 185,
+    "Pregunta": "Your company has on-premises network includes a large number of servers. They would like to make extra resources available to their users, while keeping capital and operational overheads to a minimum. You are required to make recommendations that should be included in the overall solution. Solution: You should indorse the use of a private cloud as part of the solution. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 186,
+    "Pregunta": "Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The virtual machines are currently hosted on the Hyper-V hosts in a data center. You are required make sure that the intended Azure solution uses the correct expenditure model. Solution: You should recommend the use of the elastic expenditure model. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 187,
+    "Pregunta": "Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The virtual machines are currently hosted on the Hyper-V hosts in a data center. You are required make sure that the intended Azure solution uses the correct expenditure model. Solution: You should recommend the use of the scalable expenditure model. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 188,
+    "Pregunta": "Your company is planning to migrate all their virtual machines to an Azure pay-as-you-go subscription. The virtual machines are currently hosted on the Hyper-V hosts in a data center. You are required make sure that the intended Azure solution uses the correct expenditure model. Solution: You should recommend the use of the operational expenditure model. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 189,
+    "Pregunta": "You are required to deploy an Artificial Intelligence (AI) solution in Azure. You want to make sure that you are able to build, test, and deploy predictive analytics for the solution. Solution: You should make use of Azure Cosmos DB. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 190,
+    "Pregunta": "You are required to deploy an Artificial Intelligence (AI) solution in Azure. You want to make sure that you are able to build, test, and deploy predictive analytics for the solution. Solution: You should make use of Azure Logic Apps. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 191,
+    "Pregunta": "You are required to deploy an Artificial Intelligence (AI) solution in Azure. You want to make sure that you are able to build, test, and deploy predictive analytics for the solution. Solution: You should make use of Azure Machine Learning Studio. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 192,
+    "Pregunta": "Your company has infrastructure includes a number of business units that each need a large number of various Azure resources for everyday operation. The resources required by each business unit are identical. You are required to sanction a strategy to create Azure resources automatically. Solution: You recommend that the Azure API Management service be included in the strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 193,
+    "Pregunta": "Your company has infrastructure includes a number of business units that each need a large number of various Azure resources for everyday operation. The resources required by each business unit are identical. You are required to sanction a strategy to create Azure resources automatically. Solution: You recommend that management groups be included in the strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 194,
+    "Pregunta": "Your company has infrastructure includes a number of business units that each need a large number of various Azure resources for everyday operation. The resources required by each business unit are identical. You are required to sanction a strategy to create Azure resources automatically. Solution: You recommend that the Azure Resource Manager templates be included in the strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 195,
+    "Pregunta": "You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure. You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 percent. You need to make sure that the strategy requires as little virtual machines and availability zones as possible. Solution: You include two virtual machines and one availability zone in your strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 196,
+    "Pregunta": "You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure. You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 percent. You need to make sure that the strategy requires as little virtual machines and availability zones as possible. Solution: You include one virtual machine and two availability zones in your strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 197,
+    "Pregunta": "You are tasked with deploying a critical LOB application, which will be installed on a virtual machine, to Azure. You are informed that the application deployment strategy should allow for a guaranteed availability of 99.99 percent. You need to make sure that the strategy requires as little virtual machines and availability zones as possible. Solution: You include two virtual machines and two availability zones in your strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 198,
+    "Pregunta": "Your company has developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed. You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service. Solution: you recommend the use of Microsoft Managed Desktop. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 199,
+    "Pregunta": "Your company has developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed. You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service. Solution: you recommend the use of Azure Reserved Virtual Machines (VM) Instances.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 200,
+    "Pregunta": "Your company has developers intend to deploy a large number of custom virtual machines on a weekly basis. They will also be removing these virtual machines during the same week it was deployed. Sixty percent of the virtual machines have Windows Server 2016 installed, while the other forty percent has Ubuntu Linux installed. You are required to make sure that the administrative effort, needed for this process, is reduced by employing a suitable Azure service. Solution: you recommend the use of Azure DevTest Labs. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 201,
+    "Pregunta": "Your company has virtual machines (VMs) hosted in Microsoft Azure. The VMs are located in a single Azure virtual network named VNet1. The company has users that work remotely. The remote workers require access to the VMs on VNet1. You need to provide access for the remote workers. What should you do?",
+    "Opciones": [
+      "Configure a Site-to-Site (S2S) VPN.",
+      "Configure a VNet-toVNet VPN.",
+      "Configure a Point-to-Site (P2S) VPN.",
+      "Configure DirectAccess on a Windows Server 2012 server VM.",
+      "Configure a Multi-Site VPN."
+    ],
+    "Respuesta": "Configure a Point-to-Site (P2S) VPN."
+  },
+  {
+    "Numero": 202,
+    "Pregunta": "You have been informed by your superiors of the company has intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Microsoft Purview Information Protection. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 203,
+    "Pregunta": "You have been informed by your superiors of the company has intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Azure Key Vault. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 204,
+    "Pregunta": "You have been informed by your superiors of the company has intentions to automate server deployment to Azure. There is, however, some concern that administrative credentials could be uncovered during this process. You are required to make sure that during the deployment, the administrative credentials are encrypted using a suitable Azure solution. Solution: You recommend the use of Azure Multi-Factor Authentication (MFA). Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 205,
+    "Pregunta": "Your company has a Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Azure Key Vault. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 206,
+    "Pregunta": "Your company has a Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Microsoft Entra ID Protection. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 207,
+    "Pregunta": "Your company has a Microsoft Entra ID environment. Users occasionally connect to Microsoft Entra ID via the Internet. You have been tasked with making sure that users who connect to Microsoft Entra ID via the internet from an unidentified IP address, are automatically encouraged to change passwords. Solution: You configure the use of Microsoft Entra Privileged Identity Management. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 208,
+    "Pregunta": "You are planning a strategy to deploy numerous web servers and database servers to Azure. This strategy should allow for connection types between the web servers and database servers to be controlled. Solution: You include the Azure Service Bus in your strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 209,
+    "Pregunta": "You are planning a strategy to deploy numerous web servers and database servers to Azure. This strategy should allow for connection types between the web servers and database servers to be controlled. Solution: You include network security groups (NSGs) in your strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 210,
+    "Pregunta": "You are planning a strategy to deploy numerous web servers and database servers to Azure. This strategy should allow for connection types between the web servers and database servers to be controlled. Solution: You include a local network gateway in your strategy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 211,
+    "Pregunta": "Your company has Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to require Azure Multi-Factor Authentication (MFA). Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 212,
+    "Pregunta": "Your company has Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to sync all the Active Directory user accounts to Microsoft Entra ID. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 213,
+    "Pregunta": "Your company has Active Directory forest includes thousands of user accounts. You have been informed that all network resources will be migrated to Azure. Thereafter, the on-premises data center will be retired. You are required to employ a strategy that reduces the effect on users, once the planned migration has been completed. Solution: You plan to enforce password change. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 214,
+    "Pregunta": "Your developers have created 10 web applications that must be host on Azure. You need to determine which Azure web tier plan to host the web apps. The web tier plan must meet the following requirements: The web apps will use custom domains. The web apps each require 10 GB of storage. The web apps must each run in dedicated compute instances. Load balancing between instances must be included. Costs must be minimized. Which web tier plan should you use?",
+    "Opciones": [
+      "Standard.",
+      "Basic.",
+      "Free.",
+      "Shared."
+    ],
+    "Respuesta": "Basic."
+  },
+  {
+    "Numero": 215,
+    "Pregunta": "You are currently trying to generate a number of managed Microsoft SQL Server instances in an Azure environment. During the process, you are presented with a notification informing you that the Azure subscription limits must be increased. You want to make sure that you can complete your task. Solution: You generate a service health alert. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 216,
+    "Pregunta": "You are currently trying to generate a number of managed Microsoft SQL Server instances in an Azure environment. During the process, you are presented with a notification informing you that the Azure subscription limits must be increased. You want to make sure that you can complete your task. Solution: You alter an Azure policy. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 217,
+    "Pregunta": "You are currently trying to generate a number of managed Microsoft SQL Server instances in an Azure environment. During the process, you are presented with a notification informing you that the Azure subscription limits must be increased. You want to make sure that you can complete your task. Solution: You generate a new support request. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 218,
+    "Pregunta": "You are planning to migrate a company to Azure. Each of the company has numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several Microsoft Entra ID directories. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 219,
+    "Pregunta": "You are planning to migrate a company to Azure. Each of the company has numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several resource groups. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 220,
+    "Pregunta": "You are planning to migrate a company to Azure. Each of the company has numerous divisions will have an administrator in place to manage the Azure resources used by their respective division. You want to make sure that the Azure deployment you employ allows for Azure to be segmented for the divisions, while keeping administrative effort to a minimum. Solution: You plan to make use of several subscriptions. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 221,
+    "Pregunta": "Your developers have created a portal web app for users in the Miami branch office. The web app will be publicly accessible and used by the Miami users to retrieve customer and product information. The web app is currently running in an on-premises test environment. You plan to host the web app on Azure. You need to determine which Azure web tier plan to host the web app. The web tier plan must meet the following requirements: The website will use the miami.weyland.com URL. The website will be deployed to two instances. SSL support must be included. The website requires 12 GB of storage. Costs must be minimized. Which web tier plan should you use?",
+    "Opciones": [
+      "Standard.",
+      "Basic.",
+      "Free.",
+      "Shared."
+    ],
+    "Respuesta": "Standard."
+  },
+  {
+    "Numero": 222,
+    "Pregunta": "Your company has datacenters in Los Angeles and New York. The company has a Microsoft Azure subscription. You are configuring the two datacenters as geo-clustered sites for site resiliency. You need to recommend an Azure storage redundancy option. You have the following data storage requirements: Data must be stored on multiple nodes. Data must be stored on nodes in separate geographic locations. Data can be read from the secondary location as well as from the primary location Which of the following Azure stored redundancy options should you recommend?",
+    "Opciones": [
+      "Geo-redundant storage.",
+      "Read-only geo-redundant storage.",
+      "Zone-redundant storage.",
+      "Locally redundant storage."
+    ],
+    "Respuesta": "Read-only geo-redundant storage."
+  },
+  {
+    "Numero": 223,
+    "Pregunta": "Your company has Azure subscription includes a Basic support plan. They would like to request an assessment of an Azure environment has design from Microsoft. This is, however, not supported by the existing plan. You want to make sure that the company subscribes to a support plan that allows this functionality, while keeping expenses to a minimum. Solution: You recommend that the company subscribes to the Standard support plan. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 224,
+    "Pregunta": "Your company has Azure subscription includes a Basic support plan. They would like to request an assessment of an Azure environment has design from Microsoft. This is, however, not supported by the existing plan. You want to make sure that the company subscribes to a support plan that allows this functionality, while keeping expenses to a minimum. Solution: You recommend that the company subscribes to the Professional Direct support plan. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 225,
+    "Pregunta": "Your company has Azure subscription includes a Basic support plan. They would like to request an assessment of an Azure environment has design from Microsoft. This is, however, not supported by the existing plan. You want to make sure that the company subscribes to a support plan that allows this functionality, while keeping expenses to a minimum. Solution: You recommend that the company subscribes to the Premier support plan. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 226,
+    "Pregunta": "A company that has numerous divisions is planning to deploy an Azure environment. The company would like each division has option to pay for the Azure services it utilizes, not be the same. You have been asked to recommend a solution to meet the requirements. Solution: You recommend that an Azure role be created for each division. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 227,
+    "Pregunta": "A company that has numerous divisions is planning to deploy an Azure environment. The company would like each division has option to pay for the Azure services it utilizes, not be the same. You have been asked to recommend a solution to meet the requirements. Solution: You recommend that an Azure policy be created for each division. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 228,
+    "Pregunta": "A company that has numerous divisions is planning to deploy an Azure environment. The company would like each division has option to pay for the Azure services it utilizes, not be the same. You have been asked to recommend a solution to meet the requirements. Solution: You recommend that a subscription be created for each division. Does the solution meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 229,
+    "Pregunta": "An Azure subscription can be associated to multiple Microsoft Entra ID tenants.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 230,
+    "Pregunta": "You can change the Microsoft Entra ID tenant to which an Azure subscription is associated.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 231,
+    "Pregunta": "When an Azure subscription expires, the associated Microsoft Entra ID tenant is deleted automatically.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 232,
+    "Pregunta": "A single Microsoft account can be used to manage multiple Azure subscriptions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 233,
+    "Pregunta": "Two Azure subscriptions can be merged into a single subscription.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 234,
+    "Pregunta": "A company can use resources from multiple subscriptions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 235,
+    "Pregunta": "Availability zones can be implemented in all Azure regions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 236,
+    "Pregunta": "Only virtual machines that run Windows Server can be created in availability zones.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 237,
+    "Pregunta": "Availability zones are used to replicate data and applications to multiple regions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 238,
+    "Pregunta": "You plan to create an Azure virtual machine. You need to identify which storage service must be used to store the unmanaged data disks of the virtual machine. What should you identify?",
+    "Opciones": [
+      "Containers.",
+      "File shares.",
+      "Tables.",
+      "Queues."
+    ],
+    "Respuesta": "Containers."
+  },
+  {
+    "Numero": 239,
+    "Pregunta": "You plan to implement an Azure database solution. You need to implement a database solution that meets the following requirements: Can add data concurrently from multiple regions. Can store JSON documents Which database service should you deploy?",
+    "Opciones": [
+      "Azure Cosmos DB.",
+      "SQL databases.",
+      "Azure Database for MYSQL servers.",
+      "Azure Database for PostgreSQL servers.",
+      "Azure Database for NariaDB servers.",
+      "SQL servers.",
+      "SQL Data warehouses.",
+      "Azure Database Migration Services.",
+      "Azure Cache for Redis.",
+      "SQL Server stretch databases.",
+      "Data factories.",
+      "SQL elastic pools.",
+      "Virtual Clusters.",
+      "Managed databases.",
+      "Elastic Job agents.",
+      "SQL managed instances."
+    ],
+    "Respuesta": "Azure Cosmos DB."
+  },
+  {
+    "Numero": 240,
+    "Pregunta": "All the Azure resources deployed to a resource group must use the same Azure region.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 241,
+    "Pregunta": "If you assign a tag to a resource group, all the Azure resources in that resource group are assigned to the same tag.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 242,
+    "Pregunta": "If you assign permissions for a user to manage a resource group, the user can manage all the Azure resources in that resource group.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 243,
+    "Pregunta": "You plan to deploy a critical line-of-business application to Azure. The application will run on an Azure virtual machine. You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent. What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? Minimum number of virtual machines:",
+    "Opciones": [
+      "1.",
+      "2.",
+      "3."
+    ],
+    "Respuesta": "2."
+  },
+  {
+    "Numero": 244,
+    "Pregunta": "You plan to deploy a critical line-of-business application to Azure. The application will run on an Azure virtual machine. You need to recommend a deployment solution for the application. The solution must provide a guaranteed availability of 99.99 percent. What is the minimum number of virtual machines and the minimum number of availability zones you should recommend for the deployment? Minimum number of availability zones:",
+    "Opciones": [
+      "1.",
+      "2.",
+      "3."
+    ],
+    "Respuesta": "2."
+  },
+  {
+    "Numero": 245,
+    "Pregunta": "Data that is stored in an Azure Storage account automatically has at least three copies.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 246,
+    "Pregunta": "All data that is copied to an Azure Storage account is backed up automatically to another Azure data center.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 247,
+    "Pregunta": "An Azure Storage account can contain up to 2 TB of data and up to one million files.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 248,
+    "Pregunta": "If you have Azure resources deployed to every region, you can implement availability zones in all the regions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 249,
+    "Pregunta": "North America is represented by a single Azure region.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 250,
+    "Pregunta": "Every Azure region has multiple datacenters.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 251,
+    "Pregunta": "Data transfers between Azure services located in different Azure regions are always free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 252,
+    "Pregunta": "You need to be notified when Microsoft plans to perform maintenance that can affect the resources deployed to an Azure subscription. What should you use?",
+    "Opciones": [
+      "Azure Monitor.",
+      "Azure Service Health.",
+      "Azure Advisor.",
+      "Microsoft Trust Center."
+    ],
+    "Respuesta": "Azure Service Health."
+  },
+  {
+    "Numero": 253,
+    "Pregunta": "A Windows Virtual Desktop session host can run Windows 10 only.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 254,
+    "Pregunta": "A Windows Virtual Desktop host pool that includes 20 session hosts supports a maximum of 20 simultaneous user connections.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 255,
+    "Pregunta": "Windows Virtual Desktop supports desktop and app virtualization.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 256,
+    "Pregunta": "[...] can calculate cost savings due to reduced electricity consumption as a result of migrating on-premises Microsoft SQL servers to Azure.",
+    "Opciones": [
+      "The Azure Migrate: Server Assessment tool.",
+      "The Azure Total Cost of Ownership (TCO) calculator.",
+      "The Database Migration Assistant.",
+      "The pricing calculator in Azure."
+    ],
+    "Respuesta": "The Azure Total Cost of Ownership (TCO) calculator."
+  },
+  {
+    "Numero": 257,
+    "Pregunta": "You can use Availability Zones in Azure to protect Azure virtual machines from a datacenter failure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 258,
+    "Pregunta": "You can use Availability Zones in Azure to protect Azure virtual machines from a region failure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 259,
+    "Pregunta": "You can use Availability Zones in Azure to protect Azure managed disks from a datacenter failure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 260,
+    "Pregunta": "An Azure subscription can have multiple account administrators.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 261,
+    "Pregunta": "An Azure subscription can be managed by using a Microsoft account only.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 262,
+    "Pregunta": "An Azure resource group can contain multiple Azure subscriptions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 263,
+    "Pregunta": "To use Microsoft Entra ID credentials to sign in to a computer that runs Windows 10, the computer must be joined to Microsoft Entra ID.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 264,
+    "Pregunta": "Users in Microsoft Entra ID are organized by using resource groups.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 265,
+    "Pregunta": "Microsoft Entra ID groups support dynamic membership rules.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 266,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines remain available if a single data center fails. What are two possible solutions?",
+    "Opciones": [
+      "Deploy the virtual machines to two or more availability zones.",
+      "Deploy the virtual machines to two or more resource groups.",
+      "Deploy the virtual machines to a scale set.",
+      "Deploy the virtual machines to two or more regions."
+    ],
+    "Respuesta": [
+      "Deploy the virtual machines to two or more availability zones.",
+      "Deploy the virtual machines to two or more regions."
+    ]
+  },
+  {
+    "Numero": 267,
+    "Pregunta": "Azure Monitor can monitor the performance of on-premises computers.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 268,
+    "Pregunta": "Azure Monitor can send alerts to Microsoft Entra ID security groups.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 269,
+    "Pregunta": "Azure Monitor can trigger alerts based on data in an Azure Log Analytics workspace.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 270,
+    "Pregunta": "From Azure Service Health, an administrator can view the health of all the services in an Azure environment.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 271,
+    "Pregunta": "From Azure Service Health, an administrator can create a rule to be alerted if an Azure service fails.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 272,
+    "Pregunta": "From Azure Service Health, an administrator can prevent a service failure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 273,
+    "Pregunta": "You need to identify which blades in the Azure portal must be used to perform the following task: Monitor the health of Azure services.",
+    "Opciones": [
+      "Monitor.",
+      "Subscriptions.",
+      "Marketplace.",
+      "Advisor."
+    ],
+    "Respuesta": "Monitor."
+  },
+  {
+    "Numero": 274,
+    "Pregunta": "You need to identify which blades in the Azure portal must be used to perform the following task: Browse available virtual machine images.",
+    "Opciones": [
+      "Monitor.",
+      "Subscriptions.",
+      "Marketplace.",
+      "Advisor."
+    ],
+    "Respuesta": "Marketplace."
+  },
+  {
+    "Numero": 275,
+    "Pregunta": "You need to identify which blades in the Azure portal must be used to perform the following task: View security recommendations.",
+    "Opciones": [
+      "Monitor.",
+      "Subscriptions.",
+      "Marketplace.",
+      "Advisor."
+    ],
+    "Respuesta": "Advisor."
+  },
+  {
+    "Numero": 276,
+    "Pregunta": "Azure Advisor can generate a list of Azure virtual machines that are protected by Azure Backup.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 277,
+    "Pregunta": "If you implement the security recommendations provided by Azure Advisor, your company secure score will decrease.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 278,
+    "Pregunta": "To maintain Microsoft support, you must implement the security recommendations provided by Azure Advisor within a period of 30 days.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 279,
+    "Pregunta": "What can you use to automatically send an alert if an administrator stops an Azure virtual machine?",
+    "Opciones": [
+      "Azure Advisor.",
+      "Azure Service Health.",
+      "Azure Monitor.",
+      "Azure Network Watcher."
+    ],
+    "Respuesta": "Azure Monitor."
+  },
+  {
+    "Numero": 280,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from a tablet that runs the Android operating system. What are three possible solutions?",
+    "Opciones": [
+      "Use Bash in Azure Cloud Shell.",
+      "Use PowerShell in Azure Cloud Shell.",
+      "Use the PowerApps portal.",
+      "Use the Security & Compliance admin center.",
+      "Use the Azure portal."
+    ],
+    "Respuesta": [
+      "Use Bash in Azure Cloud Shell.",
+      "Use PowerShell in Azure Cloud Shell.",
+      "Use the Azure portal."
+    ]
+  },
+  {
+    "Numero": 281,
+    "Pregunta": "Azure Advisor provides recommendations on how to improve the security of a Microsoft Entra ID environment.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 282,
+    "Pregunta": "Azure Advisor provides recommendations on how to reduce the cost of running Azure virtual machines.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 283,
+    "Pregunta": "Azure Advisor provides recommendations on how to configure the network settings on Azure virtual machines.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 284,
+    "Pregunta": "Several support engineers plan to manage Azure by using the Computer1-Windows 10. You need to identify which Azure management tools can be used.",
+    "Opciones": [
+      "The Azure CLI and the Azure portal.",
+      "The Azure portal and Azure PowerShell.",
+      "The Azure CLI and Azure PowerShell.",
+      "The Azure CLI, the Azure portal, and Azure PowerShell."
+    ],
+    "Respuesta": "The Azure CLI, the Azure portal, and Azure PowerShell."
+  },
+  {
+    "Numero": 285,
+    "Pregunta": "Several support engineers plan to manage Azure by using the Computer2-Ubuntu. You need to identify which Azure management tools can be used.",
+    "Opciones": [
+      "The Azure CLI and the Azure portal.",
+      "The Azure portal and Azure PowerShell.",
+      "The Azure CLI and Azure PowerShell.",
+      "The Azure CLI, the Azure portal, and Azure PowerShell."
+    ],
+    "Respuesta": "The Azure CLI, the Azure portal, and Azure PowerShell."
+  },
+  {
+    "Numero": 286,
+    "Pregunta": "Several support engineers plan to manage Azure by using the Computer3-MacOS Mojave. You need to identify which Azure management tools can be used.",
+    "Opciones": [
+      "The Azure CLI and the Azure portal.",
+      "The Azure portal and Azure PowerShell.",
+      "The Azure CLI and Azure PowerShell.",
+      "The Azure CLI, the Azure portal, and Azure PowerShell."
+    ],
+    "Respuesta": "The Azure CLI, the Azure portal, and Azure PowerShell."
+  },
+  {
+    "Numero": 287,
+    "Pregunta": "You can access Compliance Manager from the [...].",
+    "Opciones": [
+      "Microsoft Entra ID admin center.",
+      "Azure portal.",
+      "Microsoft 365 Admin Center.",
+      "Microsoft Service Trust Portal."
+    ],
+    "Respuesta": "Microsoft 365 Admin Center."
+  },
+  {
+    "Numero": 288,
+    "Pregunta": "An Azure administrator plans to run a PowerShell script that creates Azure resources. You need to recommend which computer configuration to use to run the script. Which three computers can run the script?",
+    "Opciones": [
+      "A computer that runs macOS and has PowerShell Core 6.0 installed.",
+      "A computer that runs Windows 10 and has the Azure PowerShell module installed.",
+      "A computer that runs Linux and has the Azure PowerShell module installed.",
+      "A computer that runs Linux and has the Azure CLI tools installed.",
+      "A computer that runs Chrome OS and uses Azure Cloud Shell."
+    ],
+    "Respuesta": [
+      "A computer that runs macOS and has PowerShell Core 6.0 installed.",
+      "A computer that runs Windows 10 and has the Azure PowerShell module installed.",
+      "A computer that runs Chrome OS and uses Azure Cloud Shell."
+    ]
+  },
+  {
+    "Numero": 289,
+    "Pregunta": "Azure Firewall will encrypt all the network traffic sent from Azure the Internet.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 290,
+    "Pregunta": "A Network Security Group (NSG) will encrypt all the network traffic sent from Azure to the Internet.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 291,
+    "Pregunta": "Azure virtual machines that run Windows Server 2016 can encrypt network traffic sent to the Internet.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 292,
+    "Pregunta": "Microsoft Defender for Cloud can monitor Azure resources and on-premises resources.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 293,
+    "Pregunta": "All Microsoft Defender for Cloud features are free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 294,
+    "Pregunta": "From Microsoft Defender for Cloud, you can download a Regulatory Compliance report.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 295,
+    "Pregunta": "You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Monitor threats by using sensors.",
+    "Opciones": [
+      "Azure Monitor.",
+      "Microsoft Defender for Cloud.",
+      "Microsoft Entra ID Identity Protection.",
+      "Microsoft Defender for Identity."
+    ],
+    "Respuesta": "Microsoft Defender for Identity."
+  },
+  {
+    "Numero": 296,
+    "Pregunta": "You plan to implement several security services for an Azure environment. You need to identify which Azure services must be used to meet the following security requirements: Enforce Azure Multi-Factor Authentication (MFA) based on a condition.",
+    "Opciones": [
+      "Azure Monitor.",
+      "Microsoft Defender for Cloud.",
+      "Microsoft Entra ID Identity Protection.",
+      "Microsoft Defender for Identity."
+    ],
+    "Respuesta": "Microsoft Entra ID Identity Protection."
+  },
+  {
+    "Numero": 297,
+    "Pregunta": "Your Azure environment contains multiple Azure virtual machines. You need to ensure that a virtual machine named VM1 is accessible from the Internet over HTTP. What are two possible solutions?",
+    "Opciones": [
+      "Modify an Azure Traffic Manager profile.",
+      "Modify a Network Security Group (NSG).",
+      "Modify a DDoS protection plan.",
+      "Modify an Azure firewall."
+    ],
+    "Respuesta": [
+      "Modify a Network Security Group (NSG).",
+      "Modify an Azure firewall."
+    ]
+  },
+  {
+    "Numero": 298,
+    "Pregunta": "You can enable Just In Time (JIT) VM access by using [...].",
+    "Opciones": [
+      "Azure Bastion.",
+      "Azure Firewall.",
+      "Azure Front Door.",
+      "Microsoft Defender for Cloud."
+    ],
+    "Respuesta": "Microsoft Defender for Cloud."
+  },
+  {
+    "Numero": 299,
+    "Pregunta": "You can associate a Network Security Group (NSG) to a virtual network subnet.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 300,
+    "Pregunta": "You can associate a Network Security Group (NSG) to a virtual network.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 301,
+    "Pregunta": "You can associate a Network Security Group (NSG) to a network interface.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 302,
+    "Pregunta": "After you create a virtual machine, you need to modify to allow connections to TCP port 8080 on the virtual machine [...].",
+    "Opciones": [
+      "Network Security Group (NSG).",
+      "Virtual network gateway.",
+      "Virtual network.",
+      "Route table."
+    ],
+    "Respuesta": "Network Security Group (NSG)."
+  },
+  {
+    "Numero": 303,
+    "Pregunta": "You can create custom Azure roles to control access to resources.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 304,
+    "Pregunta": "A user account can be assigned to multiple Azure roles.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 305,
+    "Pregunta": "A resource group can have the Owner role assigned to multiple users.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 306,
+    "Pregunta": "You need to collect and automatically analyze security events from Microsoft Entra ID. What should you use?",
+    "Opciones": [
+      "Azure Sentinel.",
+      "Azure Synapse Analytics.",
+      "Microsoft Entra Connect.",
+      "Azure Key Vault."
+    ],
+    "Respuesta": "Azure Sentinel."
+  },
+  {
+    "Numero": 307,
+    "Pregunta": "From [...] you can view which user turned off a specific virtual machine during the last 14 days.",
+    "Opciones": [
+      "Azure Access Control IAM.",
+      "Azure Event Hubs.",
+      "Azure Activity Log.",
+      "Azure Service Health."
+    ],
+    "Respuesta": "Azure Activity Log."
+  },
+  {
+    "Numero": 308,
+    "Pregunta": "Which Azure service can you use as a security information and event management (SIEM) solution?",
+    "Opciones": [
+      "Azure Analysis Services.",
+      "Azure Sentinel.",
+      "Microsoft Purview Information Protection.",
+      "Azure Cognitive Services."
+    ],
+    "Respuesta": "Azure Sentinel."
+  },
+  {
+    "Numero": 309,
+    "Pregunta": "Your company implements [Azure policies] to automatically add a watermark to Microsoft Word documents that contain credit card information.",
+    "Opciones": [
+      "No change is needed.",
+      "DDoS protection.",
+      "Microsoft Purview Information Protection.",
+      "Microsoft Entra ID Identity Protection."
+    ],
+    "Respuesta": "Microsoft Purview Information Protection."
+  },
+  {
+    "Numero": 310,
+    "Pregunta": "You have an Azure virtual network named VNET1 in a resource group named RG1. You assign the Azure Policy definition of Not Allowed Resource Type and specify that virtual networks are not an allowed resource type in RG1. VNET1 [...].",
+    "Opciones": [
+      "is deleted automatically.",
+      "is moved automatically to another resource group.",
+      "continues to function normally.",
+      "is now a read-only object."
+    ],
+    "Respuesta": "continues to function normally."
+  },
+  {
+    "Numero": 311,
+    "Pregunta": "You can create Group Polices in Microsoft Entra ID.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 312,
+    "Pregunta": "You can join Windows 10 devices to Microsoft Entra ID.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 313,
+    "Pregunta": "You can join Android devices to Microsoft Entra ID.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 314,
+    "Pregunta": "The [...] explains what data Microsoft processes, how Microsoft processes the data, and the purpose of processing the data.",
+    "Opciones": [
+      "Microsoft Online Services Privacy Statement.",
+      "Microsoft Online Services Terms.",
+      "Microsoft Online Service Level Agreement.",
+      "Online Subscription Agreement for Microsoft Azure."
+    ],
+    "Respuesta": "Microsoft Online Services Privacy Statement."
+  },
+  {
+    "Numero": 315,
+    "Pregunta": "An Azure Policy initiative definition is a [...].",
+    "Opciones": [
+      "collection of policy definitions.",
+      "collection of Azure Policy definition assignments.",
+      "group of Azure Blueprints definitions.",
+      "group of role-based access control (RBAC) role assignments."
+    ],
+    "Respuesta": "collection of policy definitions."
+  },
+  {
+    "Numero": 316,
+    "Pregunta": "[...] provide organizations with the ability to manage the compliance of Azure resources across multiple subscriptions.",
+    "Opciones": [
+      "Resource groups.",
+      "Management groups.",
+      "Azure policies.",
+      "Azure App Service plans."
+    ],
+    "Respuesta": "Azure policies."
+  },
+  {
+    "Numero": 317,
+    "Pregunta": "General Data Protection Regulation (GDPR) defines data protection and privacy rules.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 318,
+    "Pregunta": "General Data Protection Regulation (GDPR) applies to companies that offer goods or services to individuals in the EU.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 319,
+    "Pregunta": "Azure can be used to build a General Data Protection Regulation (GDPR)-compliant infrastructure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 320,
+    "Pregunta": "You can add an Azure Resource Manager template to an Azure blueprint.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 321,
+    "Pregunta": "You can assign an Azure blueprint to a resource group.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 322,
+    "Pregunta": "You can use Azure Blueprints to grant permissions to a resource.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 323,
+    "Pregunta": "Azure China is operated by Microsoft.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 324,
+    "Pregunta": "Azure Government is operated by Microsoft.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 325,
+    "Pregunta": "Azure Government is available only to US government agencies and their partners.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 326,
+    "Pregunta": "An Azure resource can have multiple Delete locks.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 327,
+    "Pregunta": "An Azure resource inherits locks from its resource group.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 328,
+    "Pregunta": "If an Azure resource has a Read-only lock, you can add a Delete lock to the resource.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 329,
+    "Pregunta": "Authorization to access Azure resources can be provided only to Microsoft Entra ID users.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 330,
+    "Pregunta": "Identities stored in Microsoft Entra ID, third-party cloud services, and on-premises Active Directory can be used to access Azure resources.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 331,
+    "Pregunta": "Azure has built-in authentication and authorization services that provide secure access to Azure resources.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 332,
+    "Pregunta": "Identities stored in an on-premises Active Directory can be synchronized to Microsoft Entra ID.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 333,
+    "Pregunta": "You can view your company regulatory compliance report from [...].",
+    "Opciones": [
+      "Azure Advisor.",
+      "Azure Analysis Services.",
+      "Azure Monitor.",
+      "Microsoft Defender for Cloud."
+    ],
+    "Respuesta": "Microsoft Defender for Cloud."
+  },
+  {
+    "Numero": 334,
+    "Pregunta": "Your company has an Azure subscription that contains resources in several regions. You need to ensure that administrators can only create resources in those regions. What should you use?",
+    "Opciones": [
+      "A read-only lock.",
+      "An Azure policy.",
+      "A management group.",
+      "A reservation."
+    ],
+    "Respuesta": "An Azure policy."
+  },
+  {
+    "Numero": 335,
+    "Pregunta": "Microsoft Entra ID requires the implementation of domain controllers on Azure virtual machines.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 336,
+    "Pregunta": "Microsoft Entra ID provides authentication services for resources hosted in Azure and Microsoft 365.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 337,
+    "Pregunta": "Each user account in Microsoft Entra ID can be assigned only one license.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 338,
+    "Pregunta": "To implement an Azure Multi-Factor Authentication (MFA) solution, you must sync on-premises identities to the cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 339,
+    "Pregunta": "Two valid methods for Azure Multi-Factor Authentication (MFA) are picture identification and a passport number.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 340,
+    "Pregunta": "You can configure the Microsoft Entra ID activity logs to appear in Azure Monitor.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 341,
+    "Pregunta": "From Azure Monitor, you can monitor resources across multiple Azure subscriptions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 342,
+    "Pregunta": "From Azure Monitor, you can create alerts.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 343,
+    "Pregunta": "You create a resource group named RG1 in Azure Resource Manager. You need to prevent the accidental deletion of the resources in RG1. Which setting should you use?",
+    "Opciones": [
+      "Quickstart.",
+      "Resource costs.",
+      "Deployments.",
+      "Policies.",
+      "Properties.",
+      "Locks.",
+      "Automation script."
+    ],
+    "Respuesta": "Locks."
+  },
+  {
+    "Numero": 344,
+    "Pregunta": "You have a resource group named RG1. You need to prevent the creation of virtual machines only in RG1. The solution must ensure that other objects can be created in RG1. What should you use?",
+    "Opciones": [
+      "A lock.",
+      "An Azure role.",
+      "A tag.",
+      "An Azure policy."
+    ],
+    "Respuesta": "An Azure policy."
+  },
+  {
+    "Numero": 345,
+    "Pregunta": "You have an Azure subscription and 100 Windows 10 devices. You need to ensure that only users whose devices have the latest security patches installed can access Microsoft Entra ID-integrated applications. What should you implement?",
+    "Opciones": [
+      "A conditional access policy.",
+      "Azure Bastion.",
+      "Azure Firewall.",
+      "Azure Policy."
+    ],
+    "Respuesta": "A conditional access policy."
+  },
+  {
+    "Numero": 346,
+    "Pregunta": "[...] enables users to authenticate to multiple applications by using single sign-on (SSO).",
+    "Opciones": [
+      "Application security groups in Azure.",
+      "Microsoft Entra ID.",
+      "Azure Key Vault.",
+      "Microsoft Defender for Cloud."
+    ],
+    "Respuesta": "Microsoft Entra ID."
+  },
+  {
+    "Numero": 347,
+    "Pregunta": "You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will [...].",
+    "Opciones": [
+      "refund your bank account.",
+      "migrate the resource to another subscription.",
+      "credit your Azure account.",
+      "send you a coupon code that you can redeem for Azure credits."
+    ],
+    "Respuesta": "credit your Azure account."
+  },
+  {
+    "Numero": 348,
+    "Pregunta": "Which task can you perform by using Azure Advisor?",
+    "Opciones": [
+      "Integrate Active Directory and Microsoft Entra ID.",
+      "Estimate the costs of an Azure solution.",
+      "Confirm that Azure subscription security follows best practices.",
+      "Evaluate which on-premises resources can be migrated to Azure."
+    ],
+    "Respuesta": "Estimate the costs of an Azure solution."
+  },
+  {
+    "Numero": 349,
+    "Pregunta": "If your company uses an Azure free account, you will only be able to use a subset of Azure services.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 350,
+    "Pregunta": "All Azure free accounts expire after a specific period.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 351,
+    "Pregunta": "You can create up to 10 Azure free accounts by using the same Microsoft account.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 352,
+    "Pregunta": "All Azure services in private preview must be accessed by using a separate Azure portal.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 353,
+    "Pregunta": "Azure services in public preview can be used in production environments.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 354,
+    "Pregunta": "Azure services in public preview are subject to a Service Level Agreement (SLA).",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 355,
+    "Pregunta": "A Standard support plan is included in an Azure free account.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 356,
+    "Pregunta": "Match the Azure services to the appropriate descriptions.",
+    "Opciones": [
+      "Extends on-premises networks to the Microsoft cloud via a private connection: VPN gateway. Combines two or more Azure virtual networks into a single logical virtual network: ExpressRoute. Provides an encrypted connection from on-premises networks to Azure via a public network: Virtual network peering.",
+      "Extends on-premises networks to the Microsoft cloud via a private connection: ExpressRoute. Combines two or more Azure virtual networks into a single logical virtual network: VPN gateway. Provides an encrypted connection from on-premises networks to Azure via a public network: Virtual network peering.",
+      "Extends on-premises networks to the Microsoft cloud via a private connection: VPN gateway. Combines two or more Azure virtual networks into a single logical virtual network: Virtual network peering. Provides an encrypted connection from on-premises networks to Azure via a public network: ExpressRoute.",
+      "Extends on-premises networks to the Microsoft cloud via a private connection: ExpressRoute. Combines two or more Azure virtual networks into a single logical virtual network: Virtual network peering. Provides an encrypted connection from on-premises networks to Azure via a public network: VPN gateway."
+    ],
+    "Respuesta": "Extends on-premises networks to the Microsoft cloud via a private connection: ExpressRoute. Combines two or more Azure virtual networks into a single logical virtual network: Virtual network peering. Provides an encrypted connection from on-premises networks to Azure via a public network: VPN gateway.",
+    "Imagen": "question356.png"
+  },
+  {
+    "Numero": 357,
+    "Pregunta": "Support from MSDN forums is only provided to companies that have a pay-as-you-go subscription.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 358,
+    "Pregunta": "A user who is assigned the Owner role can transfer ownership of an Azure subscription.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 359,
+    "Pregunta": "You can convert the Azure subscription of your company from Free Trial to Pay-As-You-Go.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 360,
+    "Pregunta": "With Azure Reservations, you pay less fer virtual machines than with pay as-you-go pricing.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 361,
+    "Pregunta": "Two Azure virtual machines that use the B25 size have the same monthly costs.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 362,
+    "Pregunta": "When an Azure virtual machine is stopped, you continue to pay storage costs for the virtual machine.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 363,
+    "Pregunta": "How should you calculate the monthly uptime percentage? [...] ÷ Maximum Available Minutes × 100.",
+    "Opciones": [
+      "Downtime in Minutes.",
+      "Maximum Available Minutes.",
+      "(Maximum Available Minutes-Downtime in Minutes)."
+    ],
+    "Respuesta": "(Maximum Available Minutes-Downtime in Minutes)."
+  },
+  {
+    "Numero": 364,
+    "Pregunta": "How should you calculate the monthly uptime percentage? (Maximum Available Minutes-Downtime in Minutes) ÷ [...] × 100.",
+    "Opciones": [
+      "60.",
+      "1,440.",
+      "Maximum Available Minutes."
+    ],
+    "Respuesta": "Maximum Available Minutes."
+  },
+  {
+    "Numero": 365,
+    "Pregunta": "How should you calculate the monthly uptime percentage? (Maximum Available Minutes-Downtime in Minutes) ÷ Maximum Available Minutes × [...].",
+    "Opciones": [
+      "100.",
+      "99.99.",
+      "1.440."
+    ],
+    "Respuesta": "100."
+  },
+  {
+    "Numero": 366,
+    "Pregunta": "By creating additional resource groups in an Azure subscription, additional costs are incurred.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 367,
+    "Pregunta": "By copying several gigabits of data to Azure from an on-premises network over a VPN, additional data transfer costs are incurred.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 368,
+    "Pregunta": "An Azure service is available to all Azure customers when it is in [...].",
+    "Opciones": [
+      "Public preview.",
+      "Private preview.",
+      "Development.",
+      "Development an Enterprise Agreement (EA) subscription."
+    ],
+    "Respuesta": "Public preview."
+  },
+  {
+    "Numero": 369,
+    "Pregunta": "Most Azure services are introduced in private preview before being introduced in public preview, and then in general availability.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 370,
+    "Pregunta": "Azure services in public preview can be managed only by using the Azure CLI.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 371,
+    "Pregunta": "The cost of an Azure service in private preview decreases when the service becomes generally available.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 372,
+    "Pregunta": "Your Azure trial account expired last week. You are now unable to [...].",
+    "Opciones": [
+      "create additional Microsoft Entra ID user accounts.",
+      "start an existing Azure virtual machine.",
+      "access your data stored in Azure.",
+      "access the Azure portal."
+    ],
+    "Respuesta": "start an existing Azure virtual machine."
+  },
+  {
+    "Numero": 373,
+    "Pregunta": "Your company plans to purchase an Azure subscription. The company has support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Professional Direct support plan. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 374,
+    "Pregunta": "Your company has 10 departments. The company plans to implement an Azure environment. You need to ensure that each department can use a different payment option for the Azure services it consumes. What should you create for each department?",
+    "Opciones": [
+      "A reservation.",
+      "A subscription.",
+      "A resource group.",
+      "A container instance."
+    ],
+    "Respuesta": "A subscription."
+  },
+  {
+    "Numero": 375,
+    "Pregunta": "An Azure free account has a spending limit.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 376,
+    "Pregunta": "An Azure free account has a limit of 2TB of data that can be uploaded to Azure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 377,
+    "Pregunta": "An Azure free account can contain an unlimited number of web apps.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 378,
+    "Pregunta": "An Azure service in private preview is released to all Azure customers.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 379,
+    "Pregunta": "An Azure service in public preview is released to all Azure customers.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 380,
+    "Pregunta": "An Azure service in general availability is released to a subset of Azure customers.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 381,
+    "Pregunta": "With a consumption-based plan, you pay a fixed rate for all data sent to or from virtual machines hosted in the cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 382,
+    "Pregunta": "With a consumption-based plan, you reduce overall costs by paying only for extra capacity when it is required.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 383,
+    "Pregunta": "Serverless computing is an example of a consumption-based plan.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 384,
+    "Pregunta": "The cost of Azure resources can vary between regions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 385,
+    "Pregunta": "An Azure Reservation is used to reserve server capacity at a specific data center.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 386,
+    "Pregunta": "You can stop an Azure SQL Database instance to decrease costs.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 387,
+    "Pregunta": "You have an application that is comprised of an Azure web app that has a Service Level Agreement (SLA) of 99.95 percent and an Azure SQL database that has an SLA of 99.99 percent. The composite SLA for the application is [...].",
+    "Opciones": [
+      "the product of both SLAS, which equals 99.94 percent.",
+      "the lowest SLA associated to the application, which is 99.95 percent.",
+      "the highest SLA associated to the application, which is 99.99 percent.",
+      "the difference between the two SLAS, which is 0.05 percent."
+    ],
+    "Respuesta": "the product of both SLAS, which equals 99.94 percent."
+  },
+  {
+    "Numero": 388,
+    "Pregunta": "The Service Level Agreement (SLA) guaranteed uptime for paid Azure services is at least 99.9 percent.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 389,
+    "Pregunta": "Companies can increase the Service Level Agreement (SLA) guaranteed uptime by adding Azure resources to multiple regions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 390,
+    "Pregunta": "Companies can increase the Service Level Agreement (SLA) guaranteed uptime by purchasing multiple subscriptions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 391,
+    "Pregunta": "Match the Azure Services service to the correct description.",
+    "Opciones": [
+      "A managed service that provides bidirectional communication between IoT devices and Azure: IoT Hub. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Central. A software and hardware solution that provides communication and security features for IoT devices: Azure Sphere.",
+      "A managed service that provides bidirectional communication between IoT devices and Azure: Azure Sphere. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Hub. A software and hardware solution that provides communication and security features for IoT devices: IoT Central.",
+      "A managed service that provides bidirectional communication between IoT devices and Azure: Azure Sphere. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Central. A software and hardware solution that provides communication and security features for IoT devices: IoT Hub.",
+      "A managed service that provides bidirectional communication between IoT devices and Azure: IoT Hub. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: Azure Sphere. A software and hardware solution that provides communication and security features for IoT devices: IoT Central."
+    ],
+    "Respuesta": "A managed service that provides bidirectional communication between IoT devices and Azure: IoT Hub. A fully managed software as a service (SaaS) solution to connect, monitor, and manage IoT devices at scale: IoT Central. A software and hardware solution that provides communication and security features for IoT devices: Azure Sphere.",
+    "Imagen": "question391.png"
+  },
+  {
+    "Numero": 392,
+    "Pregunta": "You need to request that Microsoft increase a subscription quota limit for your company. Which blade should you use from the Azure portal?",
+    "Opciones": [
+      "Create a resource.",
+      "All services.",
+      "Favorites.",
+      "Dashboard.",
+      "All resources.",
+      "Resource groups.",
+      "App Services.",
+      "Function Apps.",
+      "SQL databases.",
+      "Azure Cosmos DB.",
+      "Virtual machines.",
+      "Load balancers.",
+      "Help + support."
+    ],
+    "Respuesta": "Help + support."
+  },
+  {
+    "Numero": 393,
+    "Pregunta": "You can use in Azure to send email alerts when the cost of the current billing period for an Azure subscription exceeds a specified limit.",
+    "Opciones": [
+      "Advisor recommendations.",
+      "Access control (IAM).",
+      "Budget alerts.",
+      "Compliance."
+    ],
+    "Respuesta": "Budget alerts."
+  },
+  {
+    "Numero": 394,
+    "Pregunta": "From the Azure portal, you can distinguish between services that are generally available and services that are in public preview.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 395,
+    "Pregunta": "After an Azure service becomes generally available, the service is no longer updated with new features.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 396,
+    "Pregunta": "When you create Azure resources for a service in public preview, you must recreate the resources once the service becomes generally available.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 397,
+    "Pregunta": "When using an Azure ExpressRoute connection, inbound data traffic from an on-premises network to Azure is always free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 398,
+    "Pregunta": "Outbound data traffic from Azure to an on-premises network is always free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 399,
+    "Pregunta": "Data traffic between Azure services within the same Azure region is always free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 400,
+    "Pregunta": "Your company has an Azure subscription that contains the following unused resources: 20 user accounts in Microsoft Entra ID. Five groups in Microsoft Entra ID. 10 public IP addresses. 10 network interfaces. You need to reduce the Azure costs for the company. Which unused resources should you remove?",
+    "Opciones": [
+      "The network interfaces.",
+      "The public IP addresses.",
+      "The groups.",
+      "The user accounts."
+    ],
+    "Respuesta": "The public IP addresses."
+  },
+  {
+    "Numero": 401,
+    "Pregunta": "If an Azure virtual machine has a status of Stopped (deallocated), you will continue to pay for.",
+    "Opciones": [
+      "Compute capacity.",
+      "I/O operations.",
+      "Networking.",
+      "Storage."
+    ],
+    "Respuesta": "Storage."
+  },
+  {
+    "Numero": 402,
+    "Pregunta": "Storing 1 TB of data in Azure Blob storage will always cost the same, regardless of the Azure region in which the data is located.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 403,
+    "Pregunta": "When you use a general-purpose v2 Azure Storage account, you are only charged for the amount of data that is stored. All read and write operations are free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 404,
+    "Pregunta": "Transferring data between Azure Storage accounts in different Azure regions is free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 405,
+    "Pregunta": "In Microsoft Entra ID Premium P2, at least 99.9 percent availability is guaranteed.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 406,
+    "Pregunta": "The Service Level Agreement (SLA) for Microsoft Entra ID Premium P2 is the same as the SLA for Microsoft Entra ID Free.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 407,
+    "Pregunta": "All paying Azure customers receive a credit if their monthly uptime percentage is below the guaranteed amount in the Service Level Agreement (SLA).",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 408,
+    "Pregunta": "Adding resource groups in an Azure subscription generates additional costs.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 409,
+    "Pregunta": "Copying 10 GB of data to Azure from an on-premises network over a VPN generates additional Azure data transfer costs.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 410,
+    "Pregunta": "Copying 10 GB of data from Azure to an on-premises network over a VPN generates additional Azure data transfer costs.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 411,
+    "Pregunta": "Each Azure subscription can contain multiple account administrators.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 412,
+    "Pregunta": "Each Azure subscription can be managed by using a Microsoft account only.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 413,
+    "Pregunta": "An Azure resource group contains multiple Azure subscriptions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 414,
+    "Pregunta": "Data that is stored in the Archive access tier of an Azure Storage account [...].",
+    "Opciones": [
+      "can be accessed at any time by using azcopy.exe.",
+      "can only be read by using Azure Backup.",
+      "must be restored before the data can be accessed.",
+      "must be rehydrated before the data can be accessed."
+    ],
+    "Respuesta": "must be rehydrated before the data can be accessed."
+  },
+  {
+    "Numero": 415,
+    "Pregunta": "You deploy an Azure resource. The resource becomes unavailable for an extended period due to a service outage. Microsoft will automatically [refund your bank account].",
+    "Opciones": [
+      "No change is needed.",
+      "Automatically migrate the resource to another subscription.",
+      "Automatically credit your account.",
+      "Send you a coupon code that you can redeem for Azure credits."
+    ],
+    "Respuesta": "Automatically credit your account."
+  },
+  {
+    "Numero": 416,
+    "Pregunta": "When you need to delegate permissions to several Azure virtual machines simultaneously, you must deploy the Azure virtual machines [to the same Azure region].",
+    "Opciones": [
+      "No change is needed.",
+      "By using the same Azure Resource Manager template.",
+      "To the same resource group.",
+      "To the same availability zone."
+    ],
+    "Respuesta": "To the same resource group."
+  },
+  {
+    "Numero": 417,
+    "Pregunta": "Azure Cosmos DB is an example of a [...] offering.",
+    "Opciones": [
+      "Platform as a Service (PaaS).",
+      "Infrastructure as a service (IaaS).",
+      "Serverless.",
+      "Software as a service (SaaS)."
+    ],
+    "Respuesta": "Platform as a Service (PaaS)."
+  },
+  {
+    "Numero": 418,
+    "Pregunta": "The Microsoft Service Trust Portal can be accessed by using a Microsoft cloud services account.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 419,
+    "Pregunta": "Compliance Manager can be used to track your company regulatory compliance activities related to Microsoft cloud services.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 420,
+    "Pregunta": "The My Library feature can be used to save Microsoft Service Trust Portal documents and resources in a single location.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 421,
+    "Pregunta": "Your company plans to migrate all its data and resources to Azure. The company migration plan states that only Platform as a Service (PaaS) solutions must be used in Azure. You need to deploy an Azure environment that supports the planned migration. Solution: You create an Azure App Service and Azure Storage accounts. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 422,
+    "Pregunta": "Data that is stored in the Archive access tier of an Azure Storage account [can be access at any time by using azcopy.exe].",
+    "Opciones": [
+      "No change is needed.",
+      "can only be read by using Azure Backup.",
+      "must be restored before the data can be accessed.",
+      "must be restored before the data can be accessed."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 423,
+    "Pregunta": "To implement a hybrid cloud model, a company must always migrate from a private cloud model.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 424,
+    "Pregunta": "A company can extend the computing resources of its internal network by using the public cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 425,
+    "Pregunta": "Azure DevOps Services allows developers to deploy or update applications to Azure using Continuous Integration/Continuous Delivery (CI/CD) pipelines.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 426,
+    "Pregunta": "Azure DevOps Services includes a Git repository for developers to store code.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 427,
+    "Pregunta": "Azure DevOps Services can be used to build and host web apps.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 428,
+    "Pregunta": "You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [be deployed to a separate virtual network].",
+    "Opciones": [
+      "No change is needed.",
+      "run a different operating system than the other virtual machines.",
+      "be deployed to a separate resource group.",
+      "have two network interfaces."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 429,
+    "Pregunta": "You plan to extend your company network to Azure. The network contains a VPN appliance that uses an IP address of 131.107.200.1. You need to create an Azure resource that identifies the VPN appliance. Which Azure resource should you create?",
+    "Opciones": [
+      "Virtual networks.",
+      "Load balancers.",
+      "Virtual networks gateways.",
+      "DNS zones.",
+      "Traffic Manager profiles.",
+      "Network  Watcher.",
+      "Virtual networks (classic).",
+      "Application gateways.",
+      "Local network gateways.",
+      "CDN profiles.",
+      "ExpressRoute circuits.",
+      "Network security groups."
+    ],
+    "Respuesta": "Local network gateways."
+  },
+  {
+    "Numero": 430,
+    "Pregunta": "You have several virtual machines in an Azure subscription. You create a new subscription [the virtual machines cannot be moved to the new subscription].",
+    "Opciones": [
+      "No change is needed.",
+      "the virtual machines can be moved to the new subscription.",
+      "the virtual machines can be moved to the new subscription only if they are all in the same resource group.",
+      "the virtual machines can be moved to the new subscription only if they run Windows Server 2016."
+    ],
+    "Respuesta": "the virtual machines can be moved to the new subscription."
+  },
+  {
+    "Numero": 431,
+    "Pregunta": "[...] is the process of verifying a user credentials.",
+    "Opciones": [
+      "Authorization.",
+      "Authentication.",
+      "Federation.",
+      "Ticketing."
+    ],
+    "Respuesta": "Authentication."
+  },
+  {
+    "Numero": 432,
+    "Pregunta": "If a resource group named RG1 has a delete lock, [...] can delete RG1.",
+    "Opciones": [
+      "only a member of the global administrators group.",
+      "the delete lock must be removed before an administrator.",
+      "an Azure policy must be modified before an administrator.",
+      "an Azure tag must be added before an administrator."
+    ],
+    "Respuesta": "the delete lock must be removed before an administrator."
+  },
+  {
+    "Numero": 433,
+    "Pregunta": "A Platform as a Service (PaaS) solution that hosts web apps in Azure provides full control of the operating systems that host applications.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 434,
+    "Pregunta": "A Platform as a Service (PaaS) solution that hosts web apps in Azure can be provided with additional memory by changing the pricing tier.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 435,
+    "Pregunta": "A Platform as a Service (PaaS) solution that hosts web apps in Azure can be configured to automatically scale the number of instances based on demand.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 436,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use PowerShell in Azure Cloud Shell. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 437,
+    "Pregunta": "You plan to deploy 20 virtual machines to an Azure environment. To ensure that a virtual machine named VM1 cannot connect to the other virtual machines, VM1 must [...].",
+    "Opciones": [
+      "be deployed to a separate virtual network.",
+      "run a different operating system than the other virtual machines.",
+      "be deployed to a separate resource group.",
+      "have two network interfaces."
+    ],
+    "Respuesta": "be deployed to a separate virtual network."
+  },
+  {
+    "Numero": 438,
+    "Pregunta": "From Azure Service Health, an administrator can view the health of all the services deployed to an Azure environment and all the other services available in Azure.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 439,
+    "Pregunta": "Match the Azure Services service to the correct descriptions.",
+    "Opciones": [
+      "Analyze security log files from Azure virtual machines: Azure Security Center (now should be Microsoft Defender for Cloud). Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.",
+      "Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Lighthouse. Store passwords for use by Azure Function applications: Azure Key Vault.",
+      "Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center (now should be Microsoft Defender for Cloud). Store passwords for use by Azure Function applications: Azure Key Vault.",
+      "Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center (now should be Microsoft Defender for Cloud). Store passwords for use by Azure Function applications: Azure Active Directory (Azure AD) (now should be Microsoft Entra ID)."
+    ],
+    "Respuesta": "Analyze security log files from Azure virtual machines: Azure Sentinel. Display the secure score for an Azure subscription: Azure Security Center (now should be Microsoft Defender for Cloud). Store passwords for use by Azure Function applications: Azure Key Vault.",
+    "Imagen": "question439.png"
+  },
+  {
+    "Numero": 440,
+    "Pregunta": "[Azure policies provide] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.",
+    "Opciones": [
+      "No change is needed.",
+      "Resource groups provide.",
+      "Azure Resource Manager provides.",
+      "Management groups provide."
+    ],
+    "Respuesta": "Azure Resource Manager provides."
+  },
+  {
+    "Numero": 441,
+    "Pregunta": "All the Azure resources deployed to a single resource group must share the same Azure region.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 442,
+    "Pregunta": "If you set permissions to a resource group, all the Azure resources in that resource group inherit the permissions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 443,
+    "Pregunta": "If you create two Azure virtual machines that use the B2S size, each virtual machine will always generate the same monthly costs.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 444,
+    "Pregunta": "When an Azure virtual machine is stopped, you continue to pay storage costs associated to the virtual machine.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 445,
+    "Pregunta": "What is the primary purpose of Azure Policy assignments?",
+    "Opciones": [],
+    "Respuesta": []
+  },
+  {
+    "Numero": 446,
+    "Pregunta": "Your company has a Software Assurance agreement that includes Microsoft SQL Server licenses. You plan to deploy SQL Server on Azure virtual machines. What should you do to minimize licensing costs for the deployment?",
+    "Opciones": [
+      "Use Azure Reservations.",
+      "Use Azure Hybrid Benefit.",
+      "Deallocate the virtual machines during off hours.",
+      "Configure Azure Cost Management budgets."
+    ],
+    "Respuesta": "Use Azure Hybrid Benefit."
+  },
+  {
+    "Numero": 447,
+    "Pregunta": "If your company uses an Azure free account you can only deploy Azure virtual machines and Azure storage accounts.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 448,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use the Azure portal. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 449,
+    "Pregunta": "You need to create a new Azure virtual machine from an Android laptop. Solution: You use Bash in Azure Cloud Shell. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 450,
+    "Pregunta": "Which Azure service should you use to correlate events from multiple resources into a centralized repository?",
+    "Opciones": [
+      "Azure Event Hubs.",
+      "Azure Analysis Services.",
+      "Azure Monitor.",
+      "Azure Log Analytics."
+    ],
+    "Respuesta": "Azure Event Hubs."
+  },
+  {
+    "Numero": 451,
+    "Pregunta": "When planning to migrate a public website to Azure, you must plan to [pay monthly usage costs].",
+    "Opciones": [
+      "No change is needed.",
+      "deploy a VPN.",
+      "pay to transfer all the website data to Azure.",
+      "reduce the number of connections to the website."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 452,
+    "Pregunta": "When you are implementing a Software as a Service (SaaS) solution, you are responsible for [configuring high availability].",
+    "Opciones": [
+      "No change is needed.",
+      "Defining scalability rules.",
+      "Installing the SaaS solution.",
+      "Configuring the SaaS solution."
+    ],
+    "Respuesta": "Configuring the SaaS solution."
+  },
+  {
+    "Numero": 453,
+    "Pregunta": "Azure provides flexibility between capital expenditure (CapEx) and operational expenditure (OpEx).",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 454,
+    "Pregunta": "Your company plans to deploy an Artificial Intelligence (AI) solution in Azure. What should the company use to build, test, and deploy predictive analytics solutions?",
+    "Opciones": [
+      "Azure Logic Apps.",
+      "Azure Machine Learning Designer.",
+      "Azure Batch.",
+      "Azure Cosmos DB."
+    ],
+    "Respuesta": "Azure Machine Learning Designer."
+  },
+  {
+    "Numero": 455,
+    "Pregunta": "Your company plans to purchase Azure. The company support policy states that the Azure environment must provide an option to access support engineers by phone or email. You need to recommend which support plan meets the support policy requirement. Solution: Recommend a Standard support plan. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 456,
+    "Pregunta": "You have an Azure environment that contains 10 web apps. To which URL should you connect [1] to manage all the Azure resources? https://[1].[2].com.",
+    "Opciones": [
+      "admin.",
+      "portal.",
+      "www."
+    ],
+    "Respuesta": "portal."
+  },
+  {
+    "Numero": 457,
+    "Pregunta": "You have an Azure environment that contains 10 web apps. To which URL should you connect [2] to manage all the Azure resources? https://[1].[2].com.",
+    "Opciones": [
+      "azure.",
+      "azurewebsites.",
+      "microsoft."
+    ],
+    "Respuesta": "azure."
+  },
+  {
+    "Numero": 458,
+    "Pregunta": "You plan to create an Azure virtual machine. You need to identify which storage service must be used to store the data disks of the virtual machine. What should you identify?",
+    "Opciones": [
+      "Blobs (REST-based object storage for unstructured data).",
+      "Files (File shares that use the standard rd SMB 3.0 protocol).",
+      "Tables (Tabular data storage).",
+      "Queues (Effectively scale apps according to traffic)."
+    ],
+    "Respuesta": "Blobs (REST-based object storage for unstructured data)."
+  },
+  {
+    "Numero": 459,
+    "Pregunta": "You have an Azure environment. You need to create a new Azure virtual machine from an Android laptop. Solution: You use the PowerApps portal. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 460,
+    "Pregunta": "To implement an Azure Multi-Factor Authentication (MFA) solution, you must deploy a federation solution or sync on-premises identities to the cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 461,
+    "Pregunta": "Azure Multi-Factor Authentication (MFA) can be required for administrative and non administrative user accounts.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 462,
+    "Pregunta": "You need to view a list of planned maintenance events that can affect the availability of an Azure subscription. Which blade should you use from the Azure portal?",
+    "Opciones": [
+      "Dashboard.",
+      "All resources.",
+      "Resource groups.",
+      "App Services.",
+      "Function Apps.",
+      "SQL databases.",
+      "Azure Cosmos DB.",
+      "Virtual machines.",
+      "Load balancers.",
+      "Storage accounts.",
+      "Virtual networks.",
+      "Microsoft Entra ID.",
+      "Monitor.",
+      "Advisor.",
+      "Security Center.",
+      "Help + support."
+    ],
+    "Respuesta": "Help + support."
+  },
+  {
+    "Numero": 463,
+    "Pregunta": "A company can extend the capacity of its internal network by using the public cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 464,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more resource groups. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 465,
+    "Pregunta": "[...] a common platform for deploying objects to a cloud infrastructure and for implementing consistency across the Azure environment.",
+    "Opciones": [
+      "Azure policies provide.",
+      "Resource groups provide.",
+      "Azure Resource Manager templates provide.",
+      "Management groups provide."
+    ],
+    "Respuesta": "Azure Resource Manager templates provide."
+  },
+  {
+    "Numero": 466,
+    "Pregunta": "Which cloud deployment solution is used for Azure virtual machines and Azure SQL databases?",
+    "Opciones": [
+      "Infrastructure as a service (laaS).",
+      "Platform as a service (PaaS).",
+      "Software as a service (SaaS)."
+    ],
+    "Respuesta": "Infrastructure as a service (laaS)."
+  },
+  {
+    "Numero": 467,
+    "Pregunta": "When planning to migrate a public website to Azure, you must plan to [...].",
+    "Opciones": [
+      "deploy a VPN.",
+      "pay monthly usage costs.",
+      "pay to transfer all the website data to Azure.",
+      "reduce the number of connections to the website."
+    ],
+    "Respuesta": "pay monthly usage costs."
+  },
+  {
+    "Numero": 468,
+    "Pregunta": "Azure Pay-As-You-Go pricing is an example of CapEx.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 469,
+    "Pregunta": "Azure Reserved VM Instances are an example of OpEx.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 470,
+    "Pregunta": "Deploying your own datacenter is an example of CapEx.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 471,
+    "Pregunta": "A company can extend a private cloud by adding its physical servers to the public cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 472,
+    "Pregunta": "To build a hybrid cloud, you must deploy resources to the public cloud.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 473,
+    "Pregunta": "A private cloud must be disconnected from the internet.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 474,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to a scale set. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 475,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more availability zones. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 476,
+    "Pregunta": "When you are implementing a Software as a Service (SaaS) solution, you are responsible for [...].",
+    "Opciones": [
+      "configuring high availability.",
+      "defining scalability rules.",
+      "installing the Saas solution.",
+      "configuring the SaaS solution."
+    ],
+    "Respuesta": "configuring the SaaS solution."
+  },
+  {
+    "Numero": 477,
+    "Pregunta": "You plan to deploy several Azure virtual machines. You need to ensure that the services running on the virtual machines are available if a single data center fails. Solution: You deploy the virtual machines to two or more regions. Does this meet the goal?",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 478,
+    "Pregunta": "Azure resources can only access other resources in the same resource group.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "No."
+  },
+  {
+    "Numero": 479,
+    "Pregunta": "If you delete a resource group, all the resources in the resource group will be deleted.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 480,
+    "Pregunta": "A resource group can contain resources from multiple Azure regions.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 481,
+    "Pregunta": "Data that is copied to an Azure Storage account is maintained automatically in at least three copies.",
+    "Opciones": [
+      "Yes.",
+      "No."
+    ],
+    "Respuesta": "Yes."
+  },
+  {
+    "Numero": 482,
+    "Pregunta": "Your company has an on-premises network that contains multiple servers. The company plans to reduce the following administrative responsibilities of network administrators: Backing up application data. Replacing failed server hardware. Managing physical server security. Updating server operating systems. Managing permissions to shared documents. The company plans to migrate several servers to Azure virtual machines. You need to identify which administrative responsibilities will be eliminated after the planned migration. Which two responsibilities should you identify?",
+    "Opciones": [
+      "Replacing failed server hardware.",
+      "Backing up application data.",
+      "Managing physical server security.",
+      "Updating server operating systems.",
+      "Managing permissions to shared documents."
+    ],
+    "Respuesta": [
+      "Replacing failed server hardware.",
+      "Managing physical server security."
+    ]
+  },
+  {
+    "Numero": 483,
+    "Pregunta": "Azure Cosmos DB is an example of a [Platform as a Service (PaaS)] offering.",
+    "Opciones": [
+      "No change is needed.",
+      "Infrastructure as a service (IaaS).",
+      "Serverless.",
+      "Software as a service (SaaS)."
+    ],
+    "Respuesta": "No change is needed."
+  },
+  {
+    "Numero": 484,
+    "Pregunta": "[Authorization] is the process of verifying a user credentials.",
+    "Opciones": [
+      "No change is needed.",
+      "Authentication.",
+      "Federation.",
+      "Ticketing."
+    ],
+    "Respuesta": "Authentication."
+  },
+  {
+    "Numero": 485,
+    "Pregunta": "You plan to migrate several servers from an on-premises network to Azure. You need to identify the primary benefit of using a public cloud service for the servers. What should you identify?",
+    "Opciones": [
+      "The public cloud is owned by the public, NOT a private corporation.",
+      "All public cloud resources can be freely accessed by every member of the public.",
+      "The public cloud is a crowd-sourcing solution that provides corporations with the ability to enhance the cloud.",
+      "The public cloud is a shared entity whereby multiple corporations each use a portion of the resources in the cloud."
+    ],
+    "Respuesta": "The public cloud is a shared entity whereby multiple corporations each use a portion of the resources in the cloud."
+  }
+]

@@ -1,13 +1,81 @@
-# React + Vite
+# 📘 StudyApp AZ900
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**StudyApp AZ900** is an interactive application to prepare for the **Microsoft Azure Fundamentals (AZ-900)** exam.  
+It allows you to practice with **485 questions** in different study modes to reinforce your Azure knowledge in a fun and structured way.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📂 Source of the Questions
 
-## Expanding the ESLint configuration
+The questions were taken from the following public repository:  
+[Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers](https://github.com/Ditectrev/Microsoft-Azure-AZ-900-Microsoft-Azure-Fundamentals-Practice-Tests-Exams-Questions-Answers)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-"# StudyApp-AZ900" 
+They were then converted into a **structured JSON file** using **ChatGPT 4o** with **Agent Mode**.
+
+---
+
+## 🎮 Application Modes
+
+The app includes **4 study modes**:
+
+1. **📑 Exam Mode**
+   - 36 random questions per attempt  
+   - Question counter and final score with percentage  
+   - Review of answers after completing the exam  
+
+2. **📝 Practice Mode**
+   - Access to all **485 questions**  
+   - You can view the **correct answer** for each question  
+
+3. **💡 Flashcard Mode**
+   - Study concept by concept  
+   - Ideal for **quick review and memorization**  
+
+4. **📊 History**
+   - Saves your simulated exams in **localStorage**  
+   - Allows reviewing past attempts offline  
+
+---
+
+## 🚀 Installation and Usage
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/username/studyapp-az900.git
+   cd studyapp-az900
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run in development mode**
+   ```bash
+   npm run dev
+   ```
+
+4. **Open in the browser**
+   ```
+   http://localhost:5173
+   ```
+
+---
+
+## 📘 JSON Question Example
+
+```json
+{
+  "Numero": 1,
+  "Pregunta": "If you plan to host a web application in the Azure platform as a service solution of Azure Web Apps, then the platform will have the ability to scale automatically?",
+  "Opciones": ["Yes.", "No."],
+  "Respuesta": "Yes."
+}
+```
+
+---
+
+## ⚠️ Note
+
+This app was generated with **ChatGPT 4o** and, although it works correctly in testing, **it may contain minor bugs**.  
+It is always recommended to verify answers with the official **Microsoft Learn** documentation.
