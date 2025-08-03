@@ -21,12 +21,12 @@ const Flashcards = ({
         <button type="button" disabled={index === preguntas.length - 1} className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9] disabled:opacity-50`} onClick={() => { setIndex(index + 1); setMostrarRespuesta(false); }}>→</button>
       </div>
       <div className={`p-8 rounded-xl mb-6 text-center ${colores.card} shadow-xl flex flex-col items-center cursor-pointer hover:bg-[#34485f]`} style={{ minHeight: '350px', width: '768px' }} onClick={() => setMostrarRespuesta(!mostrarRespuesta)}>
-        <p className="font-bold text-2xl mb-4">{q.Pregunta}</p>
+        <p className="font-bold text-2xl mb-4">{q.pregunta}</p>
         <div style={{ minHeight: '2rem' }}>
-          {mostrarRespuesta && <p className="mt-4 text-green-400 font-bold text-xl">{Array.isArray(q.Respuesta) ? q.Respuesta.join(", ") : q.Respuesta}</p>}
+          {mostrarRespuesta && <p className="mt-4 text-green-400 font-bold text-xl">{Array.isArray(q.respuesta) ? q.respuesta.join(", ") : q.respuesta}</p>}
         </div>
       </div>
-      <QuestionImage src={q.Imagen} alt={`Pregunta ${q.Numero}`} />
+      <QuestionImage src={q.imagen} alt={`Pregunta ${q.numero}`} />
     </div>
   );
 };

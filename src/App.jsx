@@ -8,6 +8,7 @@ import Flashcards from './components/Flashcards';
 import History from './components/History';
 import { useShuffle } from './hooks/useShuffle';
 import { colores, cardStyle } from './constants';
+import { EXAM_TIME_MINUTES, EXAM_QUESTIONS_COUNT, LOCAL_STORAGE_HISTORY_KEY } from './config';
 
 export default function App({ preguntas = preguntasJson }) {
   const shuffleArray = useShuffle();
@@ -15,39 +16,49 @@ export default function App({ preguntas = preguntasJson }) {
   const [index, setIndex] = useState(0);
   const [respuestas, setRespuestas] = useState({});
   const [finalizado, setFinalizado] = useState(false);
-  const [historial, setHistorial] = useState([]);
+  const [historial, setHistorial] = useState(() => {
+    const saved = localStorage.getItem(LOCAL_STORAGE_HISTORY_KEY);
+    return saved ? JSON.parse(saved) : [];
+  });
   const [mostrarRespuesta, setMostrarRespuesta] = useState(false);
   const [mostrarFeedback, setMostrarFeedback] = useState(false);
   const [preguntasExamen, setPreguntasExamen] = useState([]);
-  const [tiempoRestante, setTiempoRestante] = useState(45*60);
+  const [tiempoRestante, setTiempoRestante] = useState(EXAM_TIME_MINUTES * 60);
 
 
-  useEffect(()=>{
+  useEffect(() => {
+    localStorage.setItem(LOCAL_STORAGE_HISTORY_KEY, JSON.stringify(historial));
+  }, [historial]);
+
+  useEffect(() => {
     let timer;
-    if(vista==="examen" && !finalizado){
-      timer = setInterval(()=>{
-        setTiempoRestante((prev)=>{
-          if(prev<=1){
-            clearInterval(timer);
+    if (vista === "examen" && !finalizado) {
+      timer = setInterval(() => {
+        setTiempoRestante((prev) => {
+          if (prev <= 1) {
             setFinalizado(true);
             return 0;
           }
-          return prev-1;
+          return prev - 1;
         });
-      },1000);
+      }, 1000);
     }
-    return ()=> clearInterval(timer);
-  },[vista, finalizado]);
+    return () => {
+      if (timer) {
+        clearInterval(timer);
+      }
+    };
+  }, [vista, finalizado]);
 
   const iniciarExamen = () => {
-    const seleccionadas = shuffleArray(preguntas).slice(0,36);
+    const seleccionadas = shuffleArray(preguntas).slice(0, EXAM_QUESTIONS_COUNT);
     setPreguntasExamen(seleccionadas);
     setVista("examen");
     setIndex(0);
     setRespuestas({});
     setFinalizado(false);
     setMostrarFeedback(false);
-    setTiempoRestante(45*60);
+    setTiempoRestante(EXAM_TIME_MINUTES * 60);
   };
 
   const iniciarPractica = () => {

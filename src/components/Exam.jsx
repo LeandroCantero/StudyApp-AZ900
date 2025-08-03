@@ -30,10 +30,10 @@ const Exam = ({
         <p className="mb-10 text-2xl font-semibold">Nota: {((correctas.length / preguntasExamen.length) * 100).toFixed(2)}%</p>
         <div className="space-y-4 w-full flex flex-col items-center">
           {preguntasExamen.map(q => (
-            <div key={q.Numero} className={`p-6 rounded-xl ${colores.card} shadow-lg`} style={cardStyle}>
-              <p className="mb-2 text-xl font-semibold">{q.Numero}. {q.Pregunta}</p>
+            <div key={q.numero} className={`p-6 rounded-xl ${colores.card} shadow-lg`} style={cardStyle}>
+              <p className="mb-2 text-xl font-semibold">{q.numero}. {q.pregunta}</p>
               <QuestionOptions q={q} vista={vista} index={index} preguntasExamen={preguntasExamen} preguntas={preguntas} mostrarFeedback={mostrarFeedback} respuestas={respuestas} toggleSeleccion={toggleSeleccion} review={true} />
-              <QuestionImage src={q.Imagen} alt={`Pregunta ${q.Numero}`} />
+              <QuestionImage src={q.imagen} alt={`Pregunta ${q.numero}`} />
             </div>
           ))}
         </div>
@@ -52,7 +52,7 @@ const Exam = ({
         <p className="text-xl">⏱ {minutos}:{segundos}</p>
       </div>
       <div className={`p-6 rounded-xl mb-6 ${colores.card} shadow-xl flex flex-col`} style={cardStyle}>
-        <p className="font-bold mb-4 text-xl">{q.Pregunta}</p>
+        <p className="font-bold mb-4 text-xl">{q.pregunta}</p>
         <QuestionOptions q={q} vista={vista} index={index} preguntasExamen={preguntasExamen} preguntas={preguntas} mostrarFeedback={mostrarFeedback} respuestas={respuestas} toggleSeleccion={toggleSeleccion} />
         <div className="flex justify-end mt-4">
           <button
