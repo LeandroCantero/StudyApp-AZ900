@@ -88,11 +88,11 @@ export default function App({ preguntas = preguntasJson }) {
   };
 
   const esCorrecta = (q) => {
-    const r = respuestas[q.Numero];
-    if (Array.isArray(q.Respuesta)) {
-      return Array.isArray(r) && r.sort().join() === q.Respuesta.sort().join();
+    const r = respuestas[q.numero];
+    if (Array.isArray(q.respuesta)) {
+      return Array.isArray(r) && r.sort().join() === q.respuesta.sort().join();
     }
-    return r === q.Respuesta;
+    return r === q.respuesta;
   };
 
 

@@ -72,7 +72,7 @@ const Exam = ({
           </button>
         </div>
       </div>
-      <QuestionImage src={q.Imagen} alt={`Pregunta ${q.Numero}`} />
+      <QuestionImage src={q.imagen} alt={`Pregunta ${q.numero}`} />
     </div>
   );
 };
