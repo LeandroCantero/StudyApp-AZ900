@@ -4,7 +4,7 @@ export const colores = {
   btn: "px-6 py-3 rounded-lg text-lg font-semibold cursor-pointer transition-transform duration-200 hover:scale-105",
 };
 
-export const cardStyle = { minHeight: '250px', width: '768px' };
+export const cardStyle = { minHeight: '250px' };
 export const EXAM_WEIGHTS = {
   cloud_concepts: 0.25,
   architecture_services: 0.40,

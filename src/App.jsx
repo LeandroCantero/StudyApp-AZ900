@@ -121,9 +121,11 @@ export default function App({ preguntas = preguntasJson }) {
   };
   
   const wrapCentered = (children) => (
-    <div className={`p-8 min-h-screen relative flex flex-col items-center justify-start ${colores.fondo}`}>
-      <BackButton onClick={() => setVista("menu")} />
-      <div style={{width:'100%', display:'flex', justifyContent:'center'}}>{children}</div>
+    <div className={`p-4 sm:p-8 min-h-screen flex flex-col items-center ${colores.fondo}`}>
+      <div className="w-full flex justify-start mb-4">
+        <BackButton onClick={() => setVista("menu")} />
+      </div>
+      <div className="w-full max-w-4xl flex flex-col items-center px-4 sm:px-0">{children}</div>
     </div>
   );
 

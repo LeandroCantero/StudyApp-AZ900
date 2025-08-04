@@ -50,25 +50,25 @@ const Practice = ({
   const q = filteredPreguntas[safeIndex];
 
   return wrapCentered(
-    <div>
-      <div className="flex justify-between items-center mb-10">
-        <h2 className="text-3xl font-bold">Práctica</h2>
-        <div className="text-xl">
+    <div className="w-full">
+      <div className="flex flex-col sm:flex-row justify-between items-center mb-6 sm:mb-10">
+        <h2 className="text-2xl sm:text-3xl font-bold mb-4 sm:mb-0 text-center">Práctica</h2>
+        <div className="text-lg sm:text-xl mb-4 sm:mb-0">
           <QuestionNavigator currentIndex={safeIndex} total={filteredPreguntas.length} onNavigate={handleNavigate} />
         </div>
         <CategoryFilter selectedCategory={selectedCategory} onSelectCategory={handleCategorySelect} />
       </div>
-      <div className={`p-6 rounded-xl mb-6 ${colores.card} shadow-xl flex flex-col`} style={cardStyle}>
-        <p className="font-bold mb-4 text-xl">{q.pregunta}</p>
+      <div className={`p-4 sm:p-6 rounded-xl mb-6 ${colores.card} shadow-xl flex flex-col`} style={cardStyle}>
+        <p className="font-bold mb-4 text-lg sm:text-xl">{q.pregunta}</p>
         <QuestionOptions q={q} vista={vista} index={safeIndex} preguntasExamen={preguntasExamen} preguntas={filteredPreguntas} mostrarFeedback={mostrarFeedback} respuestas={respuestas} toggleSeleccion={toggleSeleccion} />
-        <div className="flex justify-between mt-6 items-center">
-          <button type="button" className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9]`} onClick={() => setMostrarFeedback(prev => !prev)}>Comprobar</button>
-          <div className="space-x-4 flex">
-            <button type="button" disabled={index === 0} className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9]`} onClick={() => { setIndex(index - 1); setMostrarFeedback(false); }}>Anterior</button>
+        <div className="flex flex-col sm:flex-row justify-between mt-6 items-center">
+          <button type="button" className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9] w-full sm:w-auto mb-2 sm:mb-0`} onClick={() => setMostrarFeedback(prev => !prev)}>Comprobar</button>
+          <div className="space-y-2 sm:space-y-0 sm:space-x-4 flex flex-col sm:flex-row w-full sm:w-auto">
+            <button type="button" disabled={index === 0} className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9] w-full`} onClick={() => { setIndex(index - 1); setMostrarFeedback(false); }}>Anterior</button>
             <button
               type="button"
               disabled={index === filteredPreguntas.length - 1}
-              className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9] disabled:opacity-50`}
+              className={`${colores.btn} bg-[#415a77] hover:bg-[#778da9] disabled:opacity-50 w-full`}
               onClick={() => { setIndex(index + 1); setMostrarFeedback(false); }}
             >
               Siguiente
