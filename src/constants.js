@@ -5,3 +5,8 @@ export const colores = {
 };
 
 export const cardStyle = { minHeight: '250px', width: '768px' };
+export const EXAM_WEIGHTS = {
+  cloud_concepts: 0.25,
+  architecture_services: 0.40,
+  administration_governance: 0.35,
+};

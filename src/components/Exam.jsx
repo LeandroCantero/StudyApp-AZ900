@@ -2,7 +2,7 @@ import React from 'react';
 import QuestionImage from './common/QuestionImage';
 import QuestionOptions from './common/QuestionOptions';
 
-import { colores, cardStyle } from '../constants';
+import { colores, cardStyle, EXAM_WEIGHTS } from '../constants';
 
 const Exam = ({
   finalizado,
@@ -64,7 +64,10 @@ const Exam = ({
                 setIndex(index + 1);
               } else {
                 setFinalizado(true);
-                setHistorial([{ fecha: new Date().toLocaleString(), nota: ((preguntasExamen.filter(q => esCorrecta(q)).length / preguntasExamen.length) * 100).toFixed(2) }, ...historial]);
+                const nota = ((preguntasExamen.filter(q => esCorrecta(q)).length / preguntasExamen.length) * 100).toFixed(2);
+                const tiempoTotal = 45 * 60;
+                const tiempoTranscurrido = tiempoTotal - tiempoRestante;
+                setHistorial([{ fecha: new Date().toLocaleString(), nota, tiempo: tiempoTranscurrido }, ...historial]);
               }
             }}
           >

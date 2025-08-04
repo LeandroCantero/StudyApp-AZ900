@@ -7,7 +7,7 @@ import Exam from './components/Exam';
 import Flashcards from './components/Flashcards';
 import History from './components/History';
 import { useShuffle } from './hooks/useShuffle';
-import { colores, cardStyle } from './constants';
+import { colores, cardStyle, EXAM_WEIGHTS } from './constants';
 import { EXAM_TIME_MINUTES, EXAM_QUESTIONS_COUNT, LOCAL_STORAGE_HISTORY_KEY } from './config';
 
 export default function App({ preguntas = preguntasJson }) {
@@ -51,8 +51,28 @@ export default function App({ preguntas = preguntasJson }) {
   }, [vista, finalizado]);
 
   const iniciarExamen = () => {
-    const seleccionadas = shuffleArray(preguntas).slice(0, EXAM_QUESTIONS_COUNT);
-    setPreguntasExamen(seleccionadas);
+    let seleccionadas = [];
+    const preguntasPorCategoria = preguntas.reduce((acc, p) => {
+      acc[p.categoria] = acc[p.categoria] || [];
+      acc[p.categoria].push(p);
+      return acc;
+    }, {});
+
+    Object.keys(EXAM_WEIGHTS).forEach(categoria => {
+      const count = Math.round(EXAM_QUESTIONS_COUNT * EXAM_WEIGHTS[categoria]);
+      const categoriaPreguntas = preguntasPorCategoria[categoria] || [];
+      seleccionadas = seleccionadas.concat(shuffleArray(categoriaPreguntas).slice(0, count));
+    });
+
+    while (seleccionadas.length < EXAM_QUESTIONS_COUNT) {
+      const categoriaAleatoria = Object.keys(preguntasPorCategoria)[Math.floor(Math.random() * Object.keys(preguntasPorCategoria).length)];
+      const preguntaAleatoria = preguntasPorCategoria[categoriaAleatoria][Math.floor(Math.random() * preguntasPorCategoria[categoriaAleatoria].length)];
+      if (!seleccionadas.find(p => p.numero === preguntaAleatoria.numero)) {
+        seleccionadas.push(preguntaAleatoria);
+      }
+    }
+
+    setPreguntasExamen(shuffleArray(seleccionadas.slice(0, EXAM_QUESTIONS_COUNT)));
     setVista("examen");
     setIndex(0);
     setRespuestas({});
@@ -95,7 +115,10 @@ export default function App({ preguntas = preguntasJson }) {
     return r === q.respuesta;
   };
 
-
+  const borrarDelHistorial = (index) => {
+    const nuevoHistorial = historial.filter((_, i) => i !== index);
+    setHistorial(nuevoHistorial);
+  };
   
   const wrapCentered = (children) => (
     <div className={`p-8 min-h-screen relative flex flex-col items-center justify-start ${colores.fondo}`}>
@@ -111,7 +134,7 @@ export default function App({ preguntas = preguntasJson }) {
     case "practica": return <Practice preguntas={preguntas} index={index} colores={colores} cardStyle={cardStyle} wrapCentered={wrapCentered} setMostrarFeedback={setMostrarFeedback} setIndex={setIndex} mostrarFeedback={mostrarFeedback} vista={vista} preguntasExamen={preguntasExamen} respuestas={respuestas} toggleSeleccion={toggleSeleccion} />;
     case "flashcards": return <Flashcards preguntas={preguntas} index={index} colores={colores} wrapCentered={wrapCentered} setIndex={setIndex} mostrarRespuesta={mostrarRespuesta} setMostrarRespuesta={setMostrarRespuesta} />;
     case "examen": return <Exam finalizado={finalizado} preguntasExamen={preguntasExamen} esCorrecta={esCorrecta} colores={colores} cardStyle={cardStyle} wrapCentered={wrapCentered} index={index} tiempoRestante={tiempoRestante} setMostrarFeedback={setMostrarFeedback} setIndex={setIndex} setFinalizado={setFinalizado} setHistorial={setHistorial} historial={historial} vista={vista} preguntas={preguntas} respuestas={respuestas} toggleSeleccion={toggleSeleccion} mostrarFeedback={mostrarFeedback} />;
-    case "historial": return <History historial={historial} colores={colores} wrapCentered={wrapCentered} />;
+    case "historial": return <History historial={historial} colores={colores} wrapCentered={wrapCentered} borrarDelHistorial={borrarDelHistorial} />;
     default: return <Menu iniciarExamen={iniciarExamen} iniciarPractica={iniciarPractica} iniciarFlashcards={iniciarFlashcards} setVista={setVista} />;
   }
 }
