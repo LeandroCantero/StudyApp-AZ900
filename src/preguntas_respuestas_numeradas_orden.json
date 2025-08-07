@@ -4637,7 +4637,7 @@
       "must be restored before the data can be accessed.",
       "must be rehydrated before the data can be accessed."
     ],
-    "respuesta": "No change is needed.",
+    "respuesta": "must be rehydrated before the data can be accessed.",
     "categoria": "architecture_services"
   },
   {
