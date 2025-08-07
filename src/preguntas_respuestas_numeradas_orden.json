@@ -4635,7 +4635,7 @@
       "No change is needed.",
       "can only be read by using Azure Backup.",
       "must be restored before the data can be accessed.",
-      "must be restored before the data can be accessed."
+      "must be rehydrated before the data can be accessed."
     ],
     "respuesta": "No change is needed.",
     "categoria": "architecture_services"
